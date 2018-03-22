@@ -1,5 +1,5 @@
 {
-  "name": "rest-framework-tutorial",
+  "name": "roadmap",
   "scripts": {
     "postdeploy": "python manage.py migrate && ./restore.sh"
   },

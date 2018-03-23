@@ -2,12 +2,18 @@
 from django.contrib.auth.models import User
 from rest_framework import permissions, renderers, viewsets
 from rest_framework.decorators import detail_route
+from django.shortcuts import render
+from django.views.generic import TemplateView
 # from rest_framework.response import Response
 # from rest_framework.reverse import reverse
 
 from dependency.models import Tags, Tasks, Predecessors, Successors
 from dependency.permissions import IsOwnerOrReadOnly
 from dependency.serializers import TagSerializer, TaskSerializer, UserSerializer, PredecessorSerializer, SuccessorSerializer
+
+class HomePageView(TemplateView):
+    def get(self, request, **kwargs):
+        return render(request, 'index.html', context=None)
 
 class PredecessorViewSet(viewsets.ModelViewSet):
     """This viewset represents a connection to a predecssor task"""

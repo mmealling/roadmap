@@ -27,5 +27,6 @@ router.register(r'successors', views.SuccessorViewSet)
 
 # The API URLs are now determined automatically by the router.
 urlpatterns = [
+	url(r'^$', views.HomePageView.as_view()),
     url(r'^', include(router.urls))
 ]

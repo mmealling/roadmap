@@ -153,6 +153,8 @@ USE_L10N = True
 
 USE_TZ = True
 
+# x-frame-options
+X_FRAME_OPTIONS = 'ALLOW-FROM https://michael-mealling-wxym.squarespace.com/'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/

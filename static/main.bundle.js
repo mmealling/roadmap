@@ -38,7 +38,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<app-isp-svg><img src=\"http://localhost:8000/static/loader-1.gif\"></app-isp-svg>\n"
+module.exports = "<app-isp-svg><img src=\"/static/loader-1.gif\"></app-isp-svg>\n"
 
 /***/ }),
 
@@ -111,7 +111,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 // Function for setting the default restangular configuration
 function RestangularConfigFactory(RestangularProvider) {
-    RestangularProvider.setBaseUrl('http://localhost:8000/');
+    RestangularProvider.setBaseUrl('https://prod-roadmap.herokuapp.com/');
     RestangularProvider.addResponseInterceptor(function (data, operation, what, url, response) {
         if (operation === "getList") {
             return data.results;
@@ -396,7 +396,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var NodeService = /** @class */ (function () {
     function NodeService(http) {
         this.http = http;
-        this.baseUrl = 'http://localhost:8000/tasks';
+        this.baseUrl = 'https://prod-roadmap.herokuapp.com/tasks';
     }
     // getNodes(): Observable<INode[]> {
     // 	if(this.nodeList) {

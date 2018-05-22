@@ -50,7 +50,7 @@ class Customer(models.Model):
 class Tasks(models.Model):
     """The item"""
     name = models.CharField(max_length=200)
-    document = JSONField(null=True)
+    document = JSONField(null=True, blank=True)
     successor = models.ManyToManyField("self", blank=True, through='Successors', related_name='successors', symmetrical=False)
     predecessor = models.ManyToManyField("self", blank=True, through='Predecessors', related_name='predecessors', symmetrical=False)
     tags = models.ManyToManyField(Tags, blank=True)
@@ -59,12 +59,12 @@ class Tasks(models.Model):
     duration = models.IntegerField()
     owner = models.ForeignKey('auth.User',
                               related_name='tasks',
-                              null=True,
+                              null=True, blank=True,
                               on_delete=models.SET_NULL)
 
     editable = models.BooleanField(default=True)
-    startdate = models.DateField(null=True)
-    enddate = models.DateField(null=True)
+    startdate = models.DateField(null=True, blank=True)
+    enddate = models.DateField(null=True, blank=True)
     confidence = models.DecimalField(max_digits=2, decimal_places=2, null=True)
 
     TRL_1 = 1

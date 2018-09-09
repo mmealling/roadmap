@@ -25,9 +25,9 @@ API_DESCRIPTION = 'A Web API for managing and analyzing a task/component depende
 schema_view = get_schema_view(title=API_TITLE) # pylint: disable=invalid-name
 
 urlpatterns = [ # pylint: disable=invalid-name
-    url(r'^', include('dependency.urls')),
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     url(r'^schema/$', schema_view),
     url(r'^docs/', include_docs_urls(title=API_TITLE, description=API_DESCRIPTION)),
-    path('admin/', admin.site.urls)
+    path('admin/', admin.site.urls),
+    url(r'^', include('dependency.urls')),
 ]

@@ -1052,7 +1052,7 @@ var NodeService = /** @class */ (function () {
         this.http = http;
         this.cache = cache;
         // private baseUrl = 'http://localhost:8000/tasks';
-        this.baseUrl = 'https://prod-roadmap.herokuapp.com/v1/api/tasks';
+        this.baseUrl = 'https://prod-roadmap.herokuapp.com/api/v1/tasks';
         this._nodes = new rxjs__WEBPACK_IMPORTED_MODULE_3__["BehaviorSubject"]([]);
         this.lifeSpan = {
             "TTL": 60 * 10

@@ -1,0 +1,3360 @@
+{
+    "books": [
+        {
+            "author": "Douglas Adams",
+            "cover": null,
+            "desc": null,
+            "isbn": "9782207503409",
+            "metadata": {
+                "Authors": [
+                    "Douglas Adams"
+                ],
+                "ISBN-13": "9782207503409",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Guide Du Routard Galactique",
+                "Year": "1990"
+            },
+            "title": "Hitchhiker's Guide To The Galaxy"
+        },
+        {
+            "author": "Brian Aldiss",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rLnyAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rLnyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In the distant future of galactic empires, the people of the Greene-tribe\nare shocked when they discover that they are not the center of a world of\ntheir own making, in a new edition of the classic science fiction novel,\nfirst published in 1958. Reprint.",
+            "isbn": "9781585676835",
+            "metadata": {
+                "Authors": [
+                    "Brian Wilson Aldiss"
+                ],
+                "ISBN-13": "9781585676835",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Non-Stop",
+                "Year": "2005"
+            },
+            "title": "Starship"
+        },
+        {
+            "author": "Kevin Anderson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ZfYRngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ZfYRngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781614750697",
+            "metadata": {
+                "Authors": [
+                    "Kevin J. Anderson",
+                    "Doug Beason"
+                ],
+                "ISBN-13": "9781614750697",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Assemblers Of Infinity",
+                "Year": "2013"
+            },
+            "title": "Assemblers of Infinity"
+        },
+        {
+            "author": "Poul Anderson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=kz6gFTPGZh0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=kz6gFTPGZh0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780425031995",
+            "metadata": {},
+            "title": "Trader To The Stars"
+        },
+        {
+            "author": "Poul Anderson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0pawCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0pawCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "On a post-nuclear Earth, visionaries who dream of reaching for the stars\nattempt to revive the forbidden technology that destroyed their world.\nCenturies ago, humankind was nearly destroyed in a nuclear apocalypse. Many\ngenerations have passed since that terrible time, and the remnants of\ncivilization have re-formed into separate, vastly different societies. The\ndominant culture of a widely diminished Earth, the ecologically sensitive\nMaurai hold fast to their belief that “non-green” science is an\nunacceptable evil. But the reborn dream of space flight harbored by a\nforward-thinking few could herald the revival of the nuclear technology\nthat once ravaged the planet and its people—and the powerful Maurai\nFederation will take every step necessary, no matter how drastic, to\nprevent doomsday from dawning again. An enthralling work of speculative\nfiction from a winner of the Nebula and Hugo Awards, Orion Shall Rise is a\nfeat of world-building and a sobering view of tomorrow by one of the\ntwentieth century’s most revered science fiction masters. Poul Anderson’s\nmonumental tale combines science, anthropology, philosophy, and global\npolitics with breathtaking action and adventure, offering an ingeniously\nunique and provocative vision of humankind’s all-too-possible destiny. This\nebook includes the bonus story “The Sky People.”",
+            "isbn": "9781504024341",
+            "metadata": {
+                "Authors": [
+                    "Poul Anderson"
+                ],
+                "ISBN-13": "9781504024341",
+                "Language": "en",
+                "Publisher": "Open Road Media",
+                "Title": "Orion Shall Rise",
+                "Year": "2015"
+            },
+            "title": "Orion Shall Rise"
+        },
+        {
+            "author": "Kevin Anderson",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781614752578",
+            "metadata": {},
+            "title": "Lifeline"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=XEvLDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=XEvLDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9783453527942",
+            "metadata": {
+                "Authors": [
+                    "Isaac Asimov"
+                ],
+                "ISBN-13": "9783453527942",
+                "Language": "de",
+                "Publisher": "",
+                "Title": "Die Stahlhöhlen",
+                "Year": "2016"
+            },
+            "title": "Caves of Steel, The"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=6W-2NAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=6W-2NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The classic collection of Robot Stories from the master of the genre. Earth\nis ruled by master-machines but the Three Laws of Robotics have been\ndesigned to ensure humans maintain the upper hand: 1) A robot may not\ninjure a human being or allow a human being to come to harm. 2) A robot\nmust obey orders given to it by human beings except where such orders would\nconflict with the First Law. 3) A robot must protect its own existence as\nlong as such protection does not conflict withe the First or Second Law.\nBut what happens when a robot's idea of what is good for society\ncontravenes the Three Laws?",
+            "isbn": "9780007491513",
+            "metadata": {
+                "Authors": [
+                    "Isaac Asimov"
+                ],
+                "ISBN-13": "9780007491513",
+                "Language": "en",
+                "Publisher": "Voyager",
+                "Title": "I, Robot",
+                "Year": "2013"
+            },
+            "title": "I, Robot"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788482809281",
+            "metadata": {},
+            "title": "Foundation"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": null,
+            "desc": null,
+            "isbn": "9785040860463",
+            "metadata": {},
+            "title": "Foundation and Empire"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": null,
+            "desc": null,
+            "isbn": "9784488604035",
+            "metadata": {},
+            "title": "Second Foundation"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1zD2KmSR-wgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1zD2KmSR-wgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780804191227",
+            "metadata": {},
+            "title": "Naked Sun, The"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": null,
+            "desc": "Quand Elijah Baley, le célèbre agent de la Sûreté interplanétaire, arrive\nsur Aurora, il pressent qu'il va au-devant de sa plus périlleuse mission.\nImpossible pourtant de se récuser : le salut de la Terre en dépend, et le\ndestin futur de l'Univers. Il s'agit pour lui de découvrir qui, pour la\npremière fois dans la Galaxie, s'est rendu coupable du meurtre de Jander\nPanell, le robot positronique le plus sophistiqué jamais crée, et qui\natteignait un degré d' \" humanité \" très supérieur à tout ce que le Dr\nSusan Calvin aurait pu imaginer. D'autres découvertes attendent Elijah\nBaley : sur Aurora, les rites sexuels comportent peu de tabous et il n'est\npas interdit à une femme de s'éprendre d'un robot...",
+            "isbn": "9782277216032",
+            "metadata": {
+                "Authors": [
+                    "Isaac Asimov"
+                ],
+                "ISBN-13": "9782277216032",
+                "Language": "fr",
+                "Publisher": "J'ai Lu",
+                "Title": "Les robots de l'aube",
+                "Year": "1984"
+            },
+            "title": "Robots of Dawn, The"
+        },
+        {
+            "author": "John Barnes",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=U64d1BD311oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=U64d1BD311oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Adolescence on an asteroid has Melpomene torn between the desires in her\nheart and the responsibilities of her destined future as a leading force in\nthe salvation of a ravaged Earth",
+            "isbn": "9780812532388",
+            "metadata": {
+                "Authors": [
+                    "John Barnes"
+                ],
+                "ISBN-13": "9780812532388",
+                "Language": "en",
+                "Publisher": "Macmillan",
+                "Title": "Orbital Resonance",
+                "Year": "1992"
+            },
+            "title": "Orbital Resonance"
+        },
+        {
+            "author": "Stephen Baxter",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=6PzzXpqnyn8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=6PzzXpqnyn8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Orbite solaire, fin du quatrième millénaire. Lieserl est âgée de quelques\nsemaines, et pourtant son corps est celui d’une vieillarde. était, en fait.\nCar Lieserl est une intelligence artificielle, et elle vient de quitter son\nenveloppe physique pour être « uploadée » au sein du Soleil par l’entremise\nd’une Interface, rien moins qu’un trou de ver... Et alors qu’elle vole\nlittéralement dans les flux de convection, transmettant ses observations à\nla station Toth, émerveillée par un paysage à nul autre pareil, elle\ndécouvre l’impensable : le Soleil se meurt.À moins qu’il soit plus juste de\ndire que quelque chose le tue. Quelque chose ou quelqu’un... Mais qui ? Et\ndans quel but ? L’humanité vient de se découvrir le plus terrible des\nennemis, une puissance capable de moucher le cœur d’une étoile comme une\nsimple bougie, un pouvoir à même de provoquer l’apocalypse à l’échelle de\nl’univers...",
+            "isbn": "9782843444876",
+            "metadata": {
+                "Authors": [
+                    "Stephen Baxter"
+                ],
+                "ISBN-13": "9782843444876",
+                "Language": "fr",
+                "Publisher": "Le Bélial",
+                "Title": "Accrétion",
+                "Year": "2013"
+            },
+            "title": "Ring"
+        },
+        {
+            "author": "Greg Bear",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=BZ3aXcCIVJUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=BZ3aXcCIVJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781306635967",
+            "metadata": {},
+            "title": "Forge of God, The"
+        },
+        {
+            "author": "Greg Bear",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ZYLIG-FGa7YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ZYLIG-FGa7YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781857237054",
+            "metadata": {},
+            "title": "Anvil of Stars"
+        },
+        {
+            "author": "Greg Bear",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788607003938",
+            "metadata": {},
+            "title": "Eon"
+        },
+        {
+            "author": "Gregory Benford",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=c6jrUMR5AMEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=c6jrUMR5AMEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "A classic novel of man's future and fate, written by the eminent American\nphysicist and award-winning author of \"Timescape.\"",
+            "isbn": "9780446507493",
+            "metadata": {
+                "Authors": [
+                    "Gregory Benford"
+                ],
+                "ISBN-13": "9780446507493",
+                "Language": "en",
+                "Publisher": "Aspect",
+                "Title": "In The Ocean Of Night",
+                "Year": "2007"
+            },
+            "title": "In The Ocean of Night"
+        },
+        {
+            "author": "Gregory Benford",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=pQlNMTAntFQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=pQlNMTAntFQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780671446680",
+            "metadata": {},
+            "title": "Across the Sea of Suns"
+        },
+        {
+            "author": "Gregory Benford",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NelbSQafhNEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NelbSQafhNEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In 1986, Halley's Comet returned to our heavens for the first time in over\nseventy-five years. Heart of the Comet is the story of Halley's next return\nin the middle of the twenty-first century, and of a daring mission to\nexplore and colonize this ice-covered wanderer. It is the thrilling saga of\na multinational group of exiles who discover the comet's astonishing secret\n- the secret that threatens their very survival.",
+            "isbn": "9780575118416",
+            "metadata": {
+                "Authors": [
+                    "Gregory Benford",
+                    "David Brin"
+                ],
+                "ISBN-13": "9780575118416",
+                "Language": "en",
+                "Publisher": "Hachette UK",
+                "Title": "The Heart Of The Comet",
+                "Year": "2011"
+            },
+            "title": "Heart of the Comet"
+        },
+        {
+            "author": "Alfred Bester",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=nL4I1I28nFAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=nL4I1I28nFAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9788476345832",
+            "metadata": {},
+            "title": "Stars My Destination, The"
+        },
+        {
+            "author": "Margaret Wander Bonanno",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_oXin-RXrH8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_oXin-RXrH8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780671647186",
+            "metadata": {},
+            "title": "Strangers From the Sky"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": null,
+            "desc": "In the early twenty-first century, America withdraws from the Space Race,\nleaving the Soviet Union in uncontested control of the heavens until\nmultimillionaire Dan Randolph takes it upon himself to become a privateer\nwho preys upon Soviet space freighters",
+            "isbn": "9780312936044",
+            "metadata": {
+                "Authors": [
+                    "Ben Bova"
+                ],
+                "ISBN-13": "9780312936044",
+                "Language": "en",
+                "Publisher": "Tor Books",
+                "Title": "Privateers",
+                "Year": "1985"
+            },
+            "title": "Privateers"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=aMpPHZytZUcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=aMpPHZytZUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780749303198",
+            "metadata": {},
+            "title": "Colony"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781483068527",
+            "metadata": {},
+            "title": "Kinsman Saga, The"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=LJwtsoaCEa0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=LJwtsoaCEa0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781433263798",
+            "metadata": {},
+            "title": "Return To Mars"
+        },
+        {
+            "author": "David Brin",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780553255942",
+            "metadata": {},
+            "title": "Sundiver"
+        },
+        {
+            "author": "Dale Brown",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780616440919",
+            "metadata": {},
+            "title": "Silver Tower"
+        },
+        {
+            "author": "F.M Busby",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Gc_dkOlHA7YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Gc_dkOlHA7YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780553291100",
+            "metadata": {
+                "Authors": [
+                    "F. M. Busby"
+                ],
+                "ISBN-13": "9780553291100",
+                "Language": "en",
+                "Publisher": "Spectra",
+                "Title": "Slow Freight",
+                "Year": "1991"
+            },
+            "title": "Slow Freight"
+        },
+        {
+            "author": "Martin Caidin",
+            "cover": null,
+            "desc": "When scientists discover that the Solar System will pass through a dust\ncloud that will destroy all life on Earth, a small group tries to find a\nway to survive",
+            "isbn": "9780671656300",
+            "metadata": {
+                "Authors": [
+                    "Martin Caidin"
+                ],
+                "ISBN-13": "9780671656300",
+                "Language": "en",
+                "Publisher": "Baen Books",
+                "Title": "Exit Earth",
+                "Year": "1987"
+            },
+            "title": "Exit Earth"
+        },
+        {
+            "author": "Orson Scott Card",
+            "cover": null,
+            "desc": null,
+            "isbn": "9787533944940",
+            "metadata": {},
+            "title": "Ender's Game"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780194242332",
+            "metadata": {
+                "Authors": [
+                    "Arthur Charles Clarke"
+                ],
+                "ISBN-13": "9780194242332",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Rendezvous With Rama",
+                "Year": "1979"
+            },
+            "title": "Rendezvous With Rama"
+        },
+        {
+            "author": "R.D Boozer",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wVUWBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wVUWBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "At last, here is a book peering behind the veil of Congressional politics\nwhich force NASA to do the bidding of regional interests that cripple the\nnation's capabilities in both exploring outer space and exploiting its\nenormous economic potential. Presenting the opinions of astronauts,\nprominent rocket scientists and space policy analysts while also revealing\nunpublicized studies conducted by NASA, industry and universities, The\nPlundering of NASA: An Expose combines into one book many of the facts the\nmajor media have either ignored or not discovered. Expert sources explain\nmodern and economically practical solutions that can allow NASA to exceed\nits former Apollo glory within its current budget. In short, the book\nrelates how honest misconceptions, greed, and an outdated faction within\nNASA itself cause our nation to get less for its space agency tax dollars\nthan it could and should.",
+            "isbn": "9781300939061",
+            "metadata": {
+                "Authors": [
+                    "R.D. Boozer"
+                ],
+                "ISBN-13": "9781300939061",
+                "Language": "en",
+                "Publisher": "Lulu.com",
+                "Title": "The Plundering of NASA: an Exposé",
+                "Year": "2014"
+            },
+            "title": "Plundering of NASA: An Expose"
+        },
+        {
+            "author": "Phil Hardy",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=fhruAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fhruAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Since the initial publication of the first three groundbreaking volumes --\nHorror, Science Fiction, and The Western -- The Overlook Film Encyclopedia\nseries has been deemed the most authoritative, stylish, and compulsively\nreadable film reference series ever. In The Gangster Film, series editor\nPhil Hardy has created yet again a landmark in film reference.Included in\nthis lavish volume are critical entries on more than 1,500 gangster films,\ncomplete with plot synapses and credits, and 650 black and white\nphotographs to capture the look of this exciting genre. Arranged\nchronologically, The Gangster Film offers deliciously opinionated and\ndetailed descriptions, statistical information, credits and trivia from\nearly classics such as Public Enemy, Key Largo, Dragnet, and On the\nWaterfront to contemporary blockbusters such as The Grifters, Chinatown,\nThe Godfather, and Pulp Fiction. Essential, authoritative, and\nentertaining, The Gangster Film is the guide for serious students of film,\nfilm buffs, and home viewers.",
+            "isbn": "9780879516260",
+            "metadata": {
+                "Authors": [
+                    "Phil Hardy"
+                ],
+                "ISBN-13": "9780879516260",
+                "Language": "en",
+                "Publisher": "Overlook Pr",
+                "Title": "The Overlook Film Encyclopedia",
+                "Year": "1995"
+            },
+            "title": "Overlook Film Encyclopedia: Science Fiction"
+        },
+        {
+            "author": "Janet Morris",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rP_lnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rP_lnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "WAR AND MYSTERY BEYOND THE STARS Sgt. \"Det\" Cox has just spent three years\nunder psych observation on Earth; now that he's out-system, he isn't about\nto tell anyone he's seeing aliens again. Paige Barnett has lost everything,\neven her name, because she knows too much about the rebellion spreading\nthrough the Earth-Space mining colonies. Together Cox and Barnett stumble\nupon the mystery at the revolution's heart and learn why the rebels are\nwilling to die for it. Is their discovery humanity's worst threat or\ngreatest gift? The authorities are willing to destroy whole planets to keep\nthe revolution's secret from reaching Earth... What's to stop them from\ndestroying two people?",
+            "isbn": "9780991057375",
+            "metadata": {
+                "Authors": [
+                    "Janet Morris",
+                    "Chris Morris"
+                ],
+                "ISBN-13": "9780991057375",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Outpassage",
+                "Year": "2014"
+            },
+            "title": "Outpassage"
+        },
+        {
+            "author": "Alan Bean",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=GcgEAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GcgEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Lunar missions chronicled in paintings by Apollo 12 astronaut Captain Alan\nBean.",
+            "isbn": "9780867130508",
+            "metadata": {
+                "Authors": [
+                    "Alan Bean",
+                    "Andrew Chaikin"
+                ],
+                "ISBN-13": "9780867130508",
+                "Language": "en",
+                "Publisher": "Artisan Books",
+                "Title": "Apollo",
+                "Year": "1998"
+            },
+            "title": "Apollo: An Eyewitness Account by Astronaut/Explorer Artist/Moonwalker Alan Bean"
+        },
+        {
+            "author": "Andrew Chaikin",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=SyRaX0LqLeIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=SyRaX0LqLeIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781943499779",
+            "metadata": {},
+            "title": "Man On the Moon, A"
+        },
+        {
+            "author": "Piers Bizony",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=jPH6CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=jPH6CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780760339411",
+            "metadata": {},
+            "title": "Space Shuttle: Celebrating Thirty Years of NASA's First Space Plane"
+        },
+        {
+            "author": "Kenneth Gatland",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780861010752",
+            "metadata": {},
+            "title": "Illustrated Encyclopedia of Space Technology"
+        },
+        {
+            "author": "Andy Weir",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=FNK8oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=FNK8oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Seis días atrás el astronauta Mark Watney se convirtió en uno de los\nprimeros hombres en caminar por la superficie de Marte. Ahora está seguro\nde que será el primer hombre en morir allí. La tripulación de la nave en\nque viajaba se ve obligada a evacuar el planeta a causa de una tormenta de\npolvo, dejando atrás a Mark tras darlo por muerto. Pero él está vivo, y\natrapado a millones de kilómetros de cualquier ser humano, sin posibilidad\nde enviar señales a la Tierra. De todos modos, si lograra establecer\nconexión, moriría mucho antes de que el rescate llegara. Sin embargo, Mark\nno se da por vencido; armado con su ingenio, sus habilidades y sus\nconocimientos sobre botánica, se enfrentará a obstáculos aparentemente\ninsuperables. Por suerte, el sentido del humor resultará ser su mayor\nfuente de fuerza. Obstinado en seguir con vida, incubará un plan\nabsolutamente demencial para ponerse en contacto con la NASA. Con un final\nsorprendente, El marciano es una novela brillantemente construida, un\ndelirio ingenioso, con una mecánica del suspense que sorprenderá al lector\nuna y otra vez y le hará perderse en el cosmos de la naturaleza humana y la\nlucha por la supervivencia. Una experiencia literaria excepcional en\ngravedad cero.",
+            "isbn": "9788466655057",
+            "metadata": {
+                "Authors": [
+                    "Andy Weir"
+                ],
+                "ISBN-13": "9788466655057",
+                "Language": "es",
+                "Publisher": "Ediciones B",
+                "Title": "El Marciano",
+                "Year": "2015"
+            },
+            "title": "Martian, The"
+        },
+        {
+            "author": "John Clute",
+            "cover": null,
+            "desc": "Nearly two thousand illustrated entries covering science-fiction authors,\neditors, critics, magazines, anthologies, comics, illustrators, films,\nfilmmakers, and major themes are thoroughly cross-referenced, with listings\nof pseudonyms, series, and book ti",
+            "isbn": "9780385130004",
+            "metadata": {
+                "Authors": [
+                    "Peter Nicholls"
+                ],
+                "ISBN-13": "9780385130004",
+                "Language": "en",
+                "Publisher": "Doubleday Books",
+                "Title": "The Science Fiction Encyclopedia",
+                "Year": "1979"
+            },
+            "title": "Encyclopedia of Science Fiction, The"
+        },
+        {
+            "author": "Robert McCall",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=K3YuPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=K3YuPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "From the first manned space flight of Mercury I to Neil Armstrong's first\nsteps on the moon to recent shuttle launches, McCall has done more to\ncapture America's presence in space than any other artist. Now comes a\ngorgeous retrospective of the work of America's premier space artist--75\nfull-color paintings plus an introduction by Ray Bradbury.",
+            "isbn": "9780553073553",
+            "metadata": {
+                "Authors": [
+                    "Robert McCall"
+                ],
+                "ISBN-13": "9780553073553",
+                "Language": "en",
+                "Publisher": "Spectra",
+                "Title": "The Art Of Robert McCall",
+                "Year": "1992"
+            },
+            "title": "Art of Robert McCall, The"
+        },
+        {
+            "author": "David Weber",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=L7J0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=L7J0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "WE HAVE A JOB FOR YOU ... Just a routine day in lunar orbit. That's all\nLieutenant Commander Colin Maclntyre, USN, expected. Only a simple training\nmission to test a new survey instrument intended for the first manned\nAmerican-Russian interstellar flight. What he got was just a bit different.\nFirst, there was the fact that Earth didn't actually have a Moon. Then\nthere was the three thousand-kilometer diameter alien starship pretending\nit was the Moon. And the millennia-old cybernetic intelligence that\nshanghaied him to serve as its crew. Colin might have been forgiven for\nthinking that those were enough surprises for any one man, but there were a\nfew other small problems. Like the deadly mutiny which had been raging\nlonger than the human race had existed on Earth ... and still wasn't over.\nOr like the millions of other starships, crewed by genocidal aliens\ndedicated to the extermination of all possible competing life forms, which\njust happened to be headed straight towards Earth. Or like the interstellar\nempire whose aid offered humanity's only hope for survival... except for\nthe minor fact that its last emperor and all of his subjects had died\nforty-five thousand years ago. Add in the occasional homicidal terrorist,\nreligious fanatics convinced that the only good Maclntyre was a dead\nMaclntyre, a bic-weapon capable of killing every living thing on any\nplanet, a super-bomb which could take out whole worlds, a starship drive\nwhich could destroy complete solar systems, and the need to organize the\nentire planet Earth¾ and all of its warring, mutually murderous\nfactions¾for a probably hopeless last-ditch defense, and Colin was\nconvinced that things were just about as bad as they could possibly get.\nUntil he found out whose job it had just become to fix all those problems,\nof course.... At the publisher's request, this title is sold without DRM\n(Digital Rights Management).",
+            "isbn": "9781618243720",
+            "metadata": {
+                "Authors": [
+                    "David Weber"
+                ],
+                "ISBN-13": "9781618243720",
+                "Language": "en",
+                "Publisher": "Baen Publishing Enterprises",
+                "Title": "Empire From The Ashes",
+                "Year": "2003"
+            },
+            "title": "Empire from the Ashes"
+        },
+        {
+            "author": "Roger D Launius",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=yz8-AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=yz8-AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Chronicles the history of the U.S. space program",
+            "isbn": "9781556706967",
+            "metadata": {
+                "Authors": [
+                    "Roger D. Launius"
+                ],
+                "ISBN-13": "9781556706967",
+                "Language": "en",
+                "Publisher": "Stewart Tabori & Chang",
+                "Title": "NASA & The Exploration Of Space",
+                "Year": "1998"
+            },
+            "title": "NASA & The Exploration of Space"
+        },
+        {
+            "author": "Ron Miller",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=baZtzgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=baZtzgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Presents a series of paintings, photographs, drawings, and text that take a\nguided trip through the solar system, featuring the latest in scientific\nthought and data.",
+            "isbn": "9780761135470",
+            "metadata": {
+                "Authors": [
+                    "Ron Miller",
+                    "William K. Hartmann"
+                ],
+                "ISBN-13": "9780761135470",
+                "Language": "en",
+                "Publisher": "Workman Publishing Company",
+                "Title": "The Grand Tour",
+                "Year": "2005"
+            },
+            "title": "Grand Tour: A Traveler's Guide To The Solar System"
+        },
+        {
+            "author": "G. Harry Stine",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=q9YDAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=q9YDAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The story of the reusable, economical Single-Stage-To-Orbit (SSTO)\nspaceship, built in twenty months from parts found in space junkyards and\nWalMart, provides information on how and why these commercial spaceships\ncan benefit the space program",
+            "isbn": "9780871318473",
+            "metadata": {
+                "Authors": [
+                    "G. Harry Stine"
+                ],
+                "ISBN-13": "9780871318473",
+                "Language": "en",
+                "Publisher": "M Evans & Company",
+                "Title": "Halfway To Anywhere",
+                "Year": "1998"
+            },
+            "title": "Halfway to Anywhere"
+        },
+        {
+            "author": "Carl Sagan",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781531888091",
+            "metadata": {},
+            "title": "Pale Blue Dot"
+        },
+        {
+            "author": "John Ringo",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=N8F0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=N8F0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781439134009",
+            "metadata": {},
+            "title": "Citadel"
+        },
+        {
+            "author": "Jim Lovell",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=x4MgAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=x4MgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Recounts how after only fifty hours into its flight to the moon, the Apollo\n13 space ship was rocked by an explosion, and tells how the ship was\nbrought under control, and the crew safely returned to earth.",
+            "isbn": "9780395670293",
+            "metadata": {
+                "Authors": [
+                    "Jim Lovell"
+                ],
+                "ISBN-13": "9780395670293",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Lost Moon",
+                "Year": "1994"
+            },
+            "title": "Lost Moon: The Perilous Voyage of Apollo 13"
+        },
+        {
+            "author": "David Meerman Scott",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=GOH3AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GOH3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "One of the most successful public relations campaigns in history, featuring\nheroic astronauts, press-savvy rocket scientists, enthusiastic reporters,\ndeep-pocketed defense contractors, and Tang.",
+            "isbn": "9780262026963",
+            "metadata": {
+                "Authors": [
+                    "David Meerman Scott",
+                    "Richard Jurek",
+                    "Eugene A Cernan"
+                ],
+                "ISBN-13": "9780262026963",
+                "Language": "en",
+                "Publisher": "MIT Press",
+                "Title": "Marketing The Moon",
+                "Year": "2014"
+            },
+            "title": "Marketing the Moon: The Selling of the Apollo Lunar Program"
+        },
+        {
+            "author": "Peter Hamilton",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ZChKHQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ZChKHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In a future world where humanity is divided into two radically different\ngroups, the genetically engineered Edenists and the pioneering Adamists,\nboth groups clash on the primitive world of Lalonde. Reprint.",
+            "isbn": "9780446605151",
+            "metadata": {
+                "Authors": [
+                    "Peter F. Hamilton"
+                ],
+                "ISBN-13": "9780446605151",
+                "Language": "en",
+                "Publisher": "Aspect",
+                "Title": "The Reality Dysfunction",
+                "Year": "1997"
+            },
+            "title": "Reality Dysfunction: Emergence"
+        },
+        {
+            "author": "John Ringo",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=fYJ0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fYJ0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The fight to free the Earth from alien domination began in Live Free or\nDie, and continued in Citadel. Now Tyler Vernon, and his troops aboard the\ngigantic battle station Troy, face a desperate battle with the forces of\ngalactic tyranny. And the very survival of the Earth and its people is not\nall that is at stake. The galaxy itself must choose to live free or die-and\nif the tyrants win this battle, darkness will fall across the galaxy for\nmillennia to come. At the publisher's request, this title is sold without\nDRM (Digital Rights Management).",
+            "isbn": "9781618248114",
+            "metadata": {
+                "Authors": [
+                    "John Ringo"
+                ],
+                "ISBN-13": "9781618248114",
+                "Language": "en",
+                "Publisher": "Baen Publishing Enterprises",
+                "Title": "The Hot Gate",
+                "Year": "2011"
+            },
+            "title": "Hot Gate, The"
+        },
+        {
+            "author": "John Scalzi",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=lKHW_5W0bKkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=lKHW_5W0bKkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "THE UNIVERSE IS A DANGEROUS PLACE At seventy-five years old, John Perry is\nafter a fresh start - so, naturally, he joins the army. Earth's military\nmachine can transform elderly recruits, restoring their lost youth. But in\nreturn, its Colonial Defence Force demands two years of hazardous service\nin space. This is how Perry finds himself in a new body, crafted from his\noriginal DNA. A genetically enhanced and upgraded new body, ready for\nbattle. But upgrades alone won't keep Perry safe. He'll be fighting for his\nlife on the front line as he defends humanity's colonies from hostile\naliens. He'll pay the price for his choices, and he'll discover the\nuniverse is even more dangerous than he imagined.",
+            "isbn": "9780330538169",
+            "metadata": {
+                "Authors": [
+                    "John Scalzi"
+                ],
+                "ISBN-13": "9780330538169",
+                "Language": "en",
+                "Publisher": "Pan Macmillan",
+                "Title": "Old Man's War",
+                "Year": "2011"
+            },
+            "title": "Old Man's War"
+        },
+        {
+            "author": "Gerard O'Neill",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=goFTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=goFTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Describes the future high-orbital manufacturing facilities now in the\nplanning stage, explaining how they will be placed in orbit, how they will\noperate, who will work in them, and how living conditions will be\ncontrolled and sustained. Bibliogs",
+            "isbn": "9780688031336",
+            "metadata": {
+                "Authors": [
+                    "Gerard K. O'Neill"
+                ],
+                "ISBN-13": "9780688031336",
+                "Language": "en",
+                "Publisher": "William Morrow & Company",
+                "Title": "The High Frontier",
+                "Year": "1977"
+            },
+            "title": "High Frontier, The"
+        },
+        {
+            "author": "Travis S Taylor",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Scd0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Scd0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Popular science from the Rocket City Rednecks, as seen in multiple\nappearances on the Tonight Show with Jay Leno and the National Geographic\nChannel’s hit series. An authorized spinoff of the popular television show:\nhow America can return to space exploration and manned space flight, all\ndelivered with the laidback attitude, gumption, and backyard science the\nRocket City Redneck crew are known for on their breakout series. Cover\nfeatures Rocket City Rednecks cast with a backyard-made rocket. Popular\nscience from the Rocket City Rednecks, as seen in multiple appearances on\nthe Tonight Show with Jay Leno and in the National Geographic Channel’s hit\nseries. Meet the Rocket City Rednecks. They’re five “backwoods” guys from\nthe rocket city: Huntsville, Alabama, home to NASA’s Marshall Space Flight\nCenter and the birthplace of the U.S. space program. Sure, they love to\nshoot stuff and drink beer, and one of ’em lives in a trailer, but with a\nfamily tree full of NASA rocket scientists (not to mention their own PhDs\nand advanced degrees), they aim a little higher—like using homemade\nmoonshine to fuel a rocket! Now, in typical laidback style, Dr. Travis S.\nTaylor, leader of the crew, delivers the goods on how America can return to\nspace exploration and manned space flight – and can probably do so with\ncommon items found in a typical redneck backyard. What’s needed is a good\nold “try anything” attitude, a bit of gumption, and the spectacularly\nentertaining backyard science that’s the Rocket City Redneck specialty.",
+            "isbn": "9781451638653",
+            "metadata": {
+                "Authors": [
+                    "Travis Taylor",
+                    "Stephanie Osborn"
+                ],
+                "ISBN-13": "9781451638653",
+                "Language": "en",
+                "Publisher": "Baen",
+                "Title": "A New American Space Plan",
+                "Year": "2012"
+            },
+            "title": "New American Space Plan, A"
+        },
+        {
+            "author": "Ashley Vance",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Ma4sjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an\nilluminating and authorized look at the extraordinary life of one of\nSilicon Valley’s most exciting, unpredictable, and ambitious\nentrepreneurs—a real-life Tony Stark—and a fascinating exploration of the\nrenewal of American invention and its new “makers.” Elon Musk spotlights\nthe technology and vision of Elon Musk, the renowned entrepreneur and\ninnovator behind SpaceX, Tesla, and SolarCity, who sold one of his Internet\ncompanies, PayPal, for $1.5 billion. Ashlee Vance captures the full\nspectacle and arc of the genius’s life and work, from his tumultuous\nupbringing in South Africa and flight to the United States to his dramatic\ntechnical innovations and entrepreneurial pursuits. Vance uses Musk’s story\nto explore one of the pressing questions of our age: can the nation of\ninventors and creators who led the modern world for a century still compete\nin an age of fierce global competition? He argues that Musk—one of the most\nunusual and striking figures in American business history—is a\ncontemporary, visionary amalgam of legendary inventors and industrialists\nincluding Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More\nthan any other entrepreneur today, Musk has dedicated his energies and his\nown vast fortune to inventing a future that is as rich and far-reaching as\nthe visionaries of the golden age of science-fiction fantasy. Thorough and\ninsightful, Elon Musk brings to life a technology industry that is rapidly\nand dramatically changing by examining the life of one of its most powerful\nand influential titans.",
+            "isbn": "9780062301253",
+            "metadata": {
+                "Authors": [
+                    "Ashlee Vance"
+                ],
+                "ISBN-13": "9780062301253",
+                "Language": "en",
+                "Publisher": "Ecco",
+                "Title": "Elon Musk",
+                "Year": "2017"
+            },
+            "title": "Elon Musk: Inventing The Future"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": "The celebrated science writer recounts the exciting history of space\nexploration and flight, from Sputnik I to the present, reviews present\nmissions and plans, and speculates on future journeys and accomplishments",
+            "isbn": "9780425064481",
+            "metadata": {
+                "Authors": [
+                    "Arthur Charles Clarke"
+                ],
+                "ISBN-13": "9780425064481",
+                "Language": "en",
+                "Publisher": "Berkley Publishing Group",
+                "Title": "Interplanetary Flight",
+                "Year": "1985"
+            },
+            "title": "Interplanetary Flight"
+        },
+        {
+            "author": "T.A Heppenheimer",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rtu1swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rtu1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Is there life in space? Within the solar system, which we can reach and are\nnow beginning to explore, the answer may be: Nothing but spores and\nbacteria. Perhaps the answer is: Nothing. Beyond our region of space the\nanswer may yet be: Civilizations and cultures of greatness and magnificence\nuntold. But we have not yet learned to detect them or to communicate with\nthem. As this has become apparent there has been a reaction against many of\nthe more utopian hopes associated with space flight. Less than fifteen\nyears ago John Kennedy could commit the nation to explore \"this new ocean,\"\nwith widespread hope that we were entering a new Age of Discovery. Today it\nis fashionable to believe that our problems can find solution only on earth\nand there is nothing in space which can aid us in any way. This is not so.\nIf we cannot find planets fit for us to live on, or if Mars is not up to\nour fondest hopes - very well. We can take our own life into space. We can\nbuild colonies in space, as pleasant as we want and productive enough to\nmarkedly improve humanity's future prospects. And, we can begin to do this\nanytime we please.",
+            "isbn": "9780811736749",
+            "metadata": {
+                "Authors": [
+                    "T. A. Heppenheimer"
+                ],
+                "ISBN-13": "9780811736749",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Colonies In Space",
+                "Year": "2017"
+            },
+            "title": "Colonies in Space"
+        },
+        {
+            "author": "Jay Barbree",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=SEAGAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=SEAGAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781250040725",
+            "metadata": {},
+            "title": "Neil Armstrong: A Life of Flight"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9789545700163",
+            "metadata": {},
+            "title": "Moon Is A Harsh Mistress, The"
+        },
+        {
+            "author": "Frank Herbert",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ydQiDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ydQiDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Der erfolgreichste Science-Fiction-Roman aller Zeiten - jetzt neu übersetzt\nTausende von Jahren in der Zukunft und eine fantastische Welt: Arrakis, der\nWüstenplanet. Einzigartig, herrlich – und grausam. Und doch haben es die\nMenschen geschafft, sich dieser lebensfeindlichen Umwelt anzupassen ... Vor\nfünfzig Jahren erschien Frank Herberts Roman Der Wüstenplanet – ein Datum,\ndas den Beginn einer großartigen Erfolgsgeschichte markiert: Der\nWüstenplanet wurde zum weltweiten Bestseller und von David Lynch\nspektakulär verfilmt. Heute gilt das Buch als Meilenstein der\nZukunftsliteratur – ein monumentales Epos, das jede Generation von\nLeserinnen und Lesern neu für sich entdeckt.",
+            "isbn": "9783641173081",
+            "metadata": {
+                "Authors": [
+                    "Frank Herbert"
+                ],
+                "ISBN-13": "9783641173081",
+                "Language": "de",
+                "Publisher": "Heyne Verlag",
+                "Title": "Der Wüstenplanet",
+                "Year": "2016"
+            },
+            "title": "Dune"
+        },
+        {
+            "author": "Homer H Hickam",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=6nJOPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=6nJOPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Looking back after a distinguished NASA career, Hickam shares the story of\nhis youth in a coal mining town. Copyright © Libri GmbH. All rights\nreserved.",
+            "isbn": "9781568957036",
+            "metadata": {
+                "Authors": [
+                    "Homer H. Hickam"
+                ],
+                "ISBN-13": "9781568957036",
+                "Language": "en",
+                "Publisher": "Wheeler Publishing, Incorporated",
+                "Title": "Rocket Boys",
+                "Year": "1999"
+            },
+            "title": "Rocket Boys"
+        },
+        {
+            "author": "John C Mankins",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=WVyGoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=WVyGoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780991337002",
+            "metadata": {},
+            "title": "Case for Space Solar Power, The"
+        },
+        {
+            "author": "Robert Zubrin",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=67XuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=67XuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A look at the future of space travel examines the true potential for human\nexpeditions into outer space, the prospects for colonization of the outer\nplanets of the solar system, and their implications for the future of\nhumankind.",
+            "isbn": "9781585420360",
+            "metadata": {
+                "Authors": [
+                    "Robert Zubrin"
+                ],
+                "ISBN-13": "9781585420360",
+                "Language": "en",
+                "Publisher": "Tarcher",
+                "Title": "Entering Space",
+                "Year": "2000"
+            },
+            "title": "Entering Space: Creating a Spacefaring Civilization"
+        },
+        {
+            "author": "Eugene Cernan",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=sBxSNMFqYPcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=sBxSNMFqYPcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The basis of the 2014 award-winning feature-length documentary! A revealing\nand dramatic look at the inside of the American Space Program from one of\nits pioneers. Eugene Cernan was a unique American who came of age as an\nastronaut during the most exciting and dangerous decade of spaceflight. His\ncareer spanned the entire Gemini and Apollo programs, from being the first\nperson to spacewalk all the way around our world to the moment when he left\nman's last footprint on the Moon as commander of Apollo 17. Between those\ntwo historic events lay more adventures than an ordinary person could\nimagine as Cernan repeatedly put his life, his family and everything he\nheld dear on the altar of an obsessive desire. Written with New York Times\nbestselling author Don Davis, The Last Man on the Moon is the astronaut\nstory never before told - about the fear, love and sacrifice demanded of\nthe few men who dared to reach beyond the heavens for the biggest prize of\nall - the Moon.",
+            "isbn": "9781429971782",
+            "metadata": {
+                "Authors": [
+                    "Eugene Cernan",
+                    "Donald A. Davis"
+                ],
+                "ISBN-13": "9781429971782",
+                "Language": "en",
+                "Publisher": "St. Martin's Press",
+                "Title": "The Last Man On The Moon",
+                "Year": "2007"
+            },
+            "title": "Last Man on the Moon, The"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NFrkMAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NFrkMAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9788974580735",
+            "metadata": {
+                "Authors": [
+                    "아이작아시모프"
+                ],
+                "ISBN-13": "9788974580735",
+                "Language": "ko",
+                "Publisher": "",
+                "Title": "아시모프 로봇 1",
+                "Year": "2001"
+            },
+            "title": "Robots and Empire"
+        },
+        {
+            "author": "Brian Enke",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=bJ7UPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=bJ7UPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The first human exploration mission to the planet Mars is shrouded in\nsecrecy. Even David Debacco, the Director of Mission Support, doesn't know\nthe identity of the mission sponsors or their true agenda. As David\nstruggles to keep the brave Mars explorers alive, an expanding web of\ndeceit threatens the mission and the woman he loves. Anna Schweitzer is\ntraveling to Mars in a bold pursuit of knowledge, barely aware of the\nEarthly plots surrounding her. Against impossible odds, she looks to Mars\nfor hope. Will she live long enough to reach its untamed surface? Or will\nshe succumb to elements more terrifying than any she left behind on the\nEarth?",
+            "isbn": "9781413735826",
+            "metadata": {
+                "Authors": [
+                    "Brian Enke"
+                ],
+                "ISBN-13": "9781413735826",
+                "Language": "en",
+                "Publisher": "Publishamerica Incorporated",
+                "Title": "Shadows Of Medusa",
+                "Year": "2005"
+            },
+            "title": "Shadows of Medusa"
+        },
+        {
+            "author": "Joe Haldeman",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=GBtfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GBtfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The legendary novel of extraterrestrial war in an uncaring universe comes\nto comics, in a stunningly realized vision of Joe Haldeman's Vietnam War\nparable! The visionary Hugo and Nebula Award-winning SF tale by Joe\nHaldeman is beautifully realized in full color by the legendary artist\nMarvano. An epic SF war story spanning relativistic space and time, The\nForever War explores one soldier's experience as he is caught up in the\nbrutal machinery of a war against an unknown and unknowable alien foe that\nreaches across the stars.",
+            "isbn": "9781785860898",
+            "metadata": {
+                "Authors": [
+                    "Joe Haldemann"
+                ],
+                "ISBN-13": "9781785860898",
+                "Language": "en",
+                "Publisher": "Titan Comics",
+                "Title": "The Forever War",
+                "Year": "2017"
+            },
+            "title": "Forever War, The"
+        },
+        {
+            "author": "John Ringo",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781441851369",
+            "metadata": {},
+            "title": "Live Free or Die"
+        },
+        {
+            "author": "John Clute",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=yEd1QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=yEd1QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Gathers information about science fiction history, publishers, authors,\nmotion pictures, novels, concepts, and themes",
+            "isbn": "9780312096182",
+            "metadata": {
+                "Authors": [
+                    "John Clute",
+                    "Peter Nicholls"
+                ],
+                "ISBN-13": "9780312096182",
+                "Language": "en",
+                "Publisher": "New York : St. Martin's Press",
+                "Title": "The Encyclopedia Of Science Fiction",
+                "Year": "1993"
+            },
+            "title": "Science Fiction: The Illustrated Encyclopedia"
+        },
+        {
+            "author": "John Steakley",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=x0_GBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=x0_GBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781433294891",
+            "metadata": {},
+            "title": "Armor"
+        },
+        {
+            "author": "John S Lewis",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Q9a8oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Q9a8oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The emerging asteroid mining industry has extremely ambitious intentions.\nIt is within the realm of possibility that their work may usher in a change\nin global economics as profound as the Industrial Revolution. As may be\nexpected, press reports dealing with asteroid mining have been numerous,\nranging in scope from short and breezy to broad and serious, and in quality\nfrom accurate to impressionistic to simply uninformed. There is good reason\nto be curious about what may be the biggest game-changer in human economic\nhistory. And there is good reason to look closely at the underlying science\nand engineering that form the foundation of this work.",
+            "isbn": "9780990584209",
+            "metadata": {
+                "Authors": [
+                    "John S. Lewis"
+                ],
+                "ISBN-13": "9780990584209",
+                "Language": "en",
+                "Publisher": "Deep Space Industries",
+                "Title": "Asteroid Mining 101",
+                "Year": "2014"
+            },
+            "title": "Asteroid Mining 101: Wealth for the New Space Economy"
+        },
+        {
+            "author": "Ian McDonald",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NihfCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NihfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780765375520",
+            "metadata": {},
+            "title": "Luna: New Moon"
+        },
+        {
+            "author": "David Levy",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=nXRHAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=nXRHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781741787634",
+            "metadata": {},
+            "title": "Skywatching"
+        },
+        {
+            "author": "Albert A Harrison",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vaFEIZMqLWgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vaFEIZMqLWgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The author of After Contact: The Human Response to Extraterrestrial Life\nlooks back on forty years of spaceflight, focusing on the human dimension\nof space travel and the psychological issues underpinning the desire to\nleave the planet.",
+            "isbn": "9780520236776",
+            "metadata": {
+                "Authors": [
+                    "Albert A. Harrison"
+                ],
+                "ISBN-13": "9780520236776",
+                "Language": "en",
+                "Publisher": "Univ of California Press",
+                "Title": "Spacefaring",
+                "Year": "2002"
+            },
+            "title": "Spacefaring: The Human Dimension"
+        },
+        {
+            "author": "James S.A Corey",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=YpSwpwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=YpSwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Im Weltall gibt es kein Gesetz ... Die Menschheit hat unser Sonnensystem\nkolonisiert. Auf dem Mond, dem Mars, im Asteroidengürtel und noch darüber\nhinaus gibt es Stationen und werden Rohstoffe abgebaut. Doch die Sterne\nsind den Menschen bisher verwehrt geblieben. Als der Kapitän eines kleinen\nMinenschiffs ein havariertes Schiff aufbringt, ahnt er nicht, welch\ngefährliches Geheimnis er in Händen hält ? ein Geheimnis, das die Zukunft\nder ganzen menschlichen Zivilisation für immer verändern wird.",
+            "isbn": "9783453529311",
+            "metadata": {
+                "Authors": [
+                    "James S. A. Corey"
+                ],
+                "ISBN-13": "9783453529311",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Leviathan Erwacht",
+                "Year": "2012"
+            },
+            "title": "Leviathan Wakes"
+        },
+        {
+            "author": "David Weber",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=WNwQDpT9roMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=WNwQDpT9roMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9782841725731",
+            "metadata": {},
+            "title": "On Basilisk Station"
+        },
+        {
+            "author": "Timothy Zahn",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Ek9gBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Ek9gBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781299162068",
+            "metadata": {},
+            "title": "Icarus Hunt, The"
+        },
+        {
+            "author": "Walter A McDougall",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=qp0sAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=qp0sAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "This highly acclaimed study approaches the space race as a problem in\ncomparative public policy. Drawing on published literature, archival\nsources in both the United States and Europe, interviews with many of the\nkey participants, and important declassified material, such as the National\nSecurity Council's first policy paper on space, McDougall examines U.S.,\nEuropean, and Soviet space programs and their politics. Opening with a\nshort account of Nikolai Kibalchich, a late nineteenth-century Russian\nrocketry theoretician, McDougall argues that the Soviet Union made its way\ninto space first because it was the world's first \"technocracy\"—which he\ndefines as \"the institutionalization of technological change for state\npurpose.\" He also explores the growth of a political economy of technology\nin both the Soviet Union and the United States.",
+            "isbn": "9780801857485",
+            "metadata": {
+                "Authors": [
+                    "Walter A. McDougall"
+                ],
+                "ISBN-13": "9780801857485",
+                "Language": "en",
+                "Publisher": "Johns Hopkins University Press",
+                "Title": "The Heavens And The Earth",
+                "Year": "1997"
+            },
+            "title": "…the Heavens and the Earth: A Political History of the Space Age"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": "CLARKE/2001 A SPACE ODYSSEY",
+            "isbn": "9780451457998",
+            "metadata": {
+                "Authors": [
+                    "Arthur Charles Clarke"
+                ],
+                "ISBN-13": "9780451457998",
+                "Language": "en",
+                "Publisher": "Roc",
+                "Title": "2001",
+                "Year": "2000"
+            },
+            "title": "2001: A Space Odyssey"
+        },
+        {
+            "author": "Christopher Nuttall",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781941620038",
+            "metadata": {
+                "Authors": [
+                    "Chris Nuttall"
+                ],
+                "ISBN-13": "9781941620038",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "First Strike",
+                "Year": "2014"
+            },
+            "title": "First Strike"
+        },
+        {
+            "author": "Carl Sagan",
+            "cover": null,
+            "desc": null,
+            "isbn": "9782744113055",
+            "metadata": {},
+            "title": "Contact"
+        },
+        {
+            "author": "William E Burrows",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2d7aAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2d7aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A definitive history of the Space Age chronicles humankind's struggle to\nexplore outer space, providing a fascinating look at the Soviet and\nAmerican space programs from a political, scientific, and human\nperspective. 20,000 first printing. Tour.",
+            "isbn": "9780679445210",
+            "metadata": {
+                "Authors": [
+                    "William E. Burrows"
+                ],
+                "ISBN-13": "9780679445210",
+                "Language": "en",
+                "Publisher": "Random House Incorporated",
+                "Title": "This New Ocean",
+                "Year": "1998"
+            },
+            "title": "This New Ocean"
+        },
+        {
+            "author": "Alan Shepard",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=nMbuoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=nMbuoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A revised edition of the New York Times bestselling classic: the epic story\nof the golden years of American space exploration, told by the men who rode\nthe rockets On October 4, 1957, the Soviet Union launched Sputnik I, and\nthe space race was born. Desperate to beat the Russians into space, NASA\nput together a crew of the nation's most daring test pilots: the seven men\nwho were to lead America to the moon. The first into space was Alan\nShepard; the last was Deke Slayton, whose irregular heartbeat kept him\ngrounded until 1975. They spent the 1960s at the forefront of NASA's effort\nto conquer space, and Moon Shot is their inside account of what many call\nthe twentieth century's greatest feat--landing humans on another world.\nCollaborating with NBC's veteran space reporter Jay Barbree, Shepard and\nSlayton narrate in gripping detail the story of America's space exploration\nfrom the time of Shepard's first flight until he and eleven others had\nwalked on the moon.",
+            "isbn": "9781480480469",
+            "metadata": {
+                "Authors": [
+                    "Jay Barbree",
+                    "Alan Shepard",
+                    "Deke Slayton"
+                ],
+                "ISBN-13": "9781480480469",
+                "Language": "en",
+                "Publisher": "Open Road Media",
+                "Title": "Moon Shot",
+                "Year": "2014"
+            },
+            "title": "Moon Shot"
+        },
+        {
+            "author": "Robert Zubrin",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781977370877",
+            "metadata": {},
+            "title": "Case For Mars, The"
+        },
+        {
+            "author": "Larry Niven",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780671434038",
+            "metadata": {
+                "Authors": [
+                    "Larry Niven"
+                ],
+                "ISBN-13": "9780671434038",
+                "Language": "en",
+                "Publisher": "Pocket",
+                "Title": "The Mote In God's Eye",
+                "Year": "1981"
+            },
+            "title": "Mote In God's Eye, The"
+        },
+        {
+            "author": "Eugene Mallove",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=6ZtTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=6ZtTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780471619123",
+            "metadata": {},
+            "title": "Starflight Handbook, The"
+        },
+        {
+            "author": "W. Michael Gear",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=dPE0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=dPE0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "This rich and exciting sci-fi trilogy follows the search of one man—raised\nto be the ultimate general, the penultimate killing machine—for his own\nhumanity and for the son he's never known. The final conflict is about to\nbegin.... The Forbidden Borders form a seemingly unassailable gravity-\npowered barrier, cutting humankind off from the wider universe, confining\nrival empires to a few star systems, and leaving them to strive endlessly\nagainst one another for total control. But now the weakest have fallen,\nonly two mighty empires remain, and each must once again turn to the man\nboth fear more than they fear one another. The man each is determined to\nhire—or, failing that, to assassinate—Staffa kar Therma, Lord Commander of\nthe Companions. Trained to be the ultimate killing machine, the penultimate\ngeneral, Staffa has led his crack Companion mercenary troops to victory\ntime and again. Throughout the human worlds, the Lord Commander is cursed\nas the Star Butcher, bringer of death and destruction. And never before has\nhe turned his back from undertaking a new contract. But along with his most\nrecent victory has come a discovery that will have repercussions throughout\nall the star systems within the Forbidden Borders. For Staffa has learned\nthat the son stolen from him in infancy may still be alive, and nothing\nwill stand between Staffa and the search for his son—even though his quest\nmay well lead to his own destruction....",
+            "isbn": "9781101667002",
+            "metadata": {
+                "Authors": [
+                    "W. Michael Gear"
+                ],
+                "ISBN-13": "9781101667002",
+                "Language": "en",
+                "Publisher": "Penguin",
+                "Title": "Requiem For The Conqueror",
+                "Year": "1991"
+            },
+            "title": "Requiem for the Conqueror"
+        },
+        {
+            "author": "Judith Reeves-Stevens",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=291WCj5xOZoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=291WCj5xOZoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780671505752",
+            "metadata": {},
+            "title": "Federation"
+        },
+        {
+            "author": "Stewart Money",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=y6rioAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=y6rioAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "This is the story of SpaceX. In the pre-dawn hours of 22 May 2012, a\nconventional looking rocket lifted off from Cape Canaveral on what was only\nits third flight. Yet it was carrying a spacecraft to conduct history's\nfirst commercial mission to the International Space Station, and along with\nit, America's best chance to restore its space-faring capability. The total\ntaxpayer cost for developing the rocket and the spacecraft, including its\nprevious flights, was $396 million, a fraction of the amount NASA had spent\non any comparable project. For Elon Musk and SpaceX Exploration\nTechnologies Corp, a company founded only a decade earlier, it was a\nstunning accomplishment, yet it was only one stop on a journey which leads\nall the way to Mars. From its earliest trials and near disaster on the\nremote Pacific atoll of Kwajalein to four successful missions to the\nInternational Space Station, Here Be Dragons vividly details the first era\nof SpaceX. Set against a national space program in complete disarray at the\nend of the Shuttle era, it is also the story of a unique public/ private\npartnership with NASA, one that holds the promise of a new era of space\nexploration. For anyone who has ever looked to the small, ruddy planet in\nthe night sky and felt its inexorable pull, it may also be the story of\nsomething much greater, the opening act in one of the most significant\ndevelopments in human history, the founding of a second branch of human\ncivilisation... on Mars.",
+            "isbn": "9781926837338",
+            "metadata": {
+                "Authors": [
+                    "Stewart Money"
+                ],
+                "ISBN-13": "9781926837338",
+                "Language": "en",
+                "Publisher": "Apogee Books",
+                "Title": "Here Be Dragons",
+                "Year": "2014"
+            },
+            "title": "Here Be Dragons: The Rise of SpaceX and the Journey to Mars"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2REEAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2REEAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780395312889",
+            "metadata": {
+                "Authors": [
+                    "Ben Bova"
+                ],
+                "ISBN-13": "9780395312889",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "The High Road",
+                "Year": "1981"
+            },
+            "title": "High Road, The"
+        },
+        {
+            "author": "Melvyn Smith",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=BDZGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=BDZGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Traces the history of the space shuttle program from its beginnings to the\n1984 flights of the Challenger",
+            "isbn": "9780854294800",
+            "metadata": {
+                "Authors": [
+                    "Melvyn Smith"
+                ],
+                "ISBN-13": "9780854294800",
+                "Language": "en",
+                "Publisher": "Haynes Publishing",
+                "Title": "Space Shuttle",
+                "Year": "1985"
+            },
+            "title": "Illustrated History of Space Shuttle: US Winged Spacecraft X-15 to Orbiter"
+        },
+        {
+            "author": "Neil McAleer",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=g4BtSx8aKBUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=g4BtSx8aKBUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A nicely illustrated volume that traces the accomplishments in space\nexploration and what are the probable future developments.",
+            "isbn": "9780886874063",
+            "metadata": {
+                "Authors": [
+                    "Neil McAleer"
+                ],
+                "ISBN-13": "9780886874063",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "The Omni Space Almanac",
+                "Year": "1989"
+            },
+            "title": "Omni Space Almanac, The"
+        },
+        {
+            "author": "Paul D Spudis",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=B7YWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=B7YWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Smithsonian Library of the Solar System.",
+            "isbn": "9781560986348",
+            "metadata": {
+                "Authors": [
+                    "Paul D. Spudis"
+                ],
+                "ISBN-13": "9781560986348",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "The Once And Future Moon",
+                "Year": "1996"
+            },
+            "title": "Once and Future Moon, The"
+        },
+        {
+            "author": "Michael Michaud",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8BkQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8BkQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Reaching for the High Frontier tells the story of the pro-space movement\nfrom the end of the moon landing program to the beginning of the space\nstation program. It describes the origins, constituencies, and goals of the\nvarious groups in the movement, and reviews their tactics, successes, and\nthe opportunities they may have missed.",
+            "isbn": "9780275921514",
+            "metadata": {
+                "Authors": [
+                    "Michael A. G. Michaud"
+                ],
+                "ISBN-13": "9780275921514",
+                "Language": "en",
+                "Publisher": "Praeger Publishers",
+                "Title": "Reaching For The High Frontier",
+                "Year": "1986"
+            },
+            "title": "Reaching For The High Frontier"
+        },
+        {
+            "author": "Popular Science",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=hTr7X8FTY20C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=hTr7X8FTY20C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A dramatic, richly illustrated study of human space exploration ranges from\nthe earliest satellites and unmanned probes to distant planets to the moon\nlanding, the Space Shuttle, and the International Space Station, looking at\nthe technology, scientific accomplishments, astronauts, researchers, and\nchallenges for the future. 20,000 first printing.",
+            "isbn": "9781932273052",
+            "metadata": {
+                "Authors": [
+                    "Editors of Popular Science Magazine"
+                ],
+                "ISBN-13": "9781932273052",
+                "Language": "en",
+                "Publisher": "Time Home Entertainment",
+                "Title": "Popular Science: Space 2100",
+                "Year": "2003"
+            },
+            "title": "To Mars And Beyond In The Century To Come"
+        },
+        {
+            "author": "Gordon Dickson",
+            "cover": null,
+            "desc": "Throughout the Fourteen Worlds of humanity, no race is as feared and\nrespected as the Dorsai. The ultimate warriors, they are known for their\ndeadly rages, unbreakable honor, and fierce independence. No man rules the\nDorsai, but their mastery of the art of war has made them the most valuable\nmercenaries in the known universe. Donal Graeme is Dorsai, taller and\nharder than any ordinary man. But he is different as well, with talents\nthat maze even his fellow Dorsai. And once he ventures out into the stars,\nthe future will never be the same....",
+            "isbn": "9780879973421",
+            "metadata": {
+                "Authors": [
+                    "Gordon R. Dickson"
+                ],
+                "ISBN-13": "9780879973421",
+                "Language": "en",
+                "Publisher": "New York : Daw Books",
+                "Title": "Dorsai",
+                "Year": "1976"
+            },
+            "title": "Dorsai"
+        },
+        {
+            "author": "Gordon Dickson",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780312862886",
+            "metadata": {},
+            "title": "Final Encyclopedia"
+        },
+        {
+            "author": "Michael Collins",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=erexnn72SX8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=erexnn72SX8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780802110114",
+            "metadata": {},
+            "title": "Liftoff"
+        },
+        {
+            "author": "Judith Reeves-Stevens",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=juBh-Gx8gjMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=juBh-Gx8gjMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The Pentagon falls into the hands of deadly terrorists in this white-\nknuckle thriller by the acclaimed writing team behind the \"Los Angeles\nTimes\" bestseller \"Icefire.\"",
+            "isbn": "9780671028534",
+            "metadata": {
+                "Authors": [
+                    "Judith Reeves-Stevens",
+                    "Garfield Reeves-Stevens"
+                ],
+                "ISBN-13": "9780671028534",
+                "Language": "en",
+                "Publisher": "Beyond Words/Atria Books",
+                "Title": "Quick Silver",
+                "Year": "1999"
+            },
+            "title": "Quick Silver"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9782290301296",
+            "metadata": {
+                "Authors": [
+                    "Robert Heinlein"
+                ],
+                "ISBN-13": "9782290301296",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Etoiles, garde-à-vous ! ( Starship troopers )",
+                "Year": "2001"
+            },
+            "title": "Starship Troopers"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vjxGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vjxGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A handbook for would-be visitors and workers at a twenty-first-century\nlunar settlement.",
+            "isbn": "9780345328595",
+            "metadata": {
+                "Authors": [
+                    "Ben Bova"
+                ],
+                "ISBN-13": "9780345328595",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Welcome To Moon Base",
+                "Year": "1987"
+            },
+            "title": "Welcome to Moonbase"
+        },
+        {
+            "author": "Larry Niven",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Fp3GGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Fp3GGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The chances that Lucifer's Hammer would hit the earth head-on were one in a\nmillion. Then one in a thousand. Then one in a hundred...and then even\nless.",
+            "isbn": "9781857230963",
+            "metadata": {
+                "Authors": [
+                    "Larry Niven",
+                    "Jerry Pournelle"
+                ],
+                "ISBN-13": "9781857230963",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Lucifer's Hammer",
+                "Year": "1981"
+            },
+            "title": "Lucifer's Hammer"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wksN1qnkooAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wksN1qnkooAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780786184798",
+            "metadata": {},
+            "title": "Citizen of the Galaxy"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=g18fAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=g18fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780884118831",
+            "metadata": {},
+            "title": "Methuselah's Children"
+        },
+        {
+            "author": "Larry Niven",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788963710853",
+            "metadata": {},
+            "title": "Ringworld"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780450033162",
+            "metadata": {
+                "Authors": [
+                    "Robert Anson Heinlein"
+                ],
+                "ISBN-13": "9780450033162",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Time Enough For Love",
+                "Year": "1977"
+            },
+            "title": "Time Enough For Love"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": null,
+            "isbn": "9782277213048",
+            "metadata": {
+                "Authors": [
+                    "Arthur Charles Clarke",
+                    "Georges Hilaire Gallet"
+                ],
+                "ISBN-13": "9782277213048",
+                "Language": "fr",
+                "Publisher": "",
+                "Title": "Les Fontaines du paradis",
+                "Year": "1992"
+            },
+            "title": "Fountains of Paradise, The"
+        },
+        {
+            "author": "William R Pogue",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=mc9sCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=mc9sCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780606170437",
+            "metadata": {},
+            "title": "How Do You Go To The Bathroom In Space"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=MZ8nHQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=MZ8nHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780140057669",
+            "metadata": {},
+            "title": "Islands in the Sky"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=bGnDQrOC-aEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=bGnDQrOC-aEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780345351913",
+            "metadata": {},
+            "title": "Time For The Stars"
+        },
+        {
+            "author": "James A Michener",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ICqJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ICqJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Originally published in 1982 by Random House.",
+            "isbn": "9780812986761",
+            "metadata": {
+                "Authors": [
+                    "James Albert Michener"
+                ],
+                "ISBN-13": "9780812986761",
+                "Language": "en",
+                "Publisher": "Dial Press Trade Paperbacks",
+                "Title": "Space",
+                "Year": "2015"
+            },
+            "title": "Space"
+        },
+        {
+            "author": "David Weber",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Gpwgm022ltMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Gpwgm022ltMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780606194907",
+            "metadata": {},
+            "title": "Apocalypse Troll, The"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=zRUcAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=zRUcAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780140211368",
+            "metadata": {},
+            "title": "Promise of Space, The"
+        },
+        {
+            "author": "Norman Spinrad",
+            "cover": null,
+            "desc": "Tired of his low-level job with the American space program, engineer Jerry\nReed makes enemies of friends when he moves to Paris, where the EEC and the\nSoviet Union have joined to create a renaissance in space exploration.\nReprint.",
+            "isbn": "9780553298697",
+            "metadata": {
+                "Authors": [
+                    "Norman Spinrad"
+                ],
+                "ISBN-13": "9780553298697",
+                "Language": "en",
+                "Publisher": "Spectra",
+                "Title": "Russian Spring",
+                "Year": "1992"
+            },
+            "title": "Russian Spring"
+        },
+        {
+            "author": "W. Michael Gear",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=te5LDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=te5LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The groundbreaking novel that launched Gear's sci-fi career, this 20th\nanniversary edition introduces readers to the thrilling Spider trilogy The\nDirectorate was run by the powerful few—genetically-altered humans\npermanently linked with the GI-net, the massive computer network that\ncontained everything there was to know about the planets and space stations\nclaimed by humankind. For centuries, the Directorate had ruled over\ncountless star systems, its authority absolute and unquestioned. But now\nstirrings of rebellion were being felt in the far-flung commercial empire.\nAnd at this crucial time, the Directorate had discovered a planet out\nbeyond its farthest reaches, a place known only as World, where the\ndescendants of humans stranded long ago by a starship crash had survived by\nbecoming a race of warriors, a race led by its Prophets, men with the\nability to see the many possible pathways of the future. Men who had\nalready foreseen the coming of the Directorate’s Patrol ship Bullet—and\nwere preparing their warriors for this first contact in which even one\nwrong choice could destroy both World and empire....",
+            "isbn": "9781101666951",
+            "metadata": {
+                "Authors": [
+                    "W. Michael Gear"
+                ],
+                "ISBN-13": "9781101666951",
+                "Language": "en",
+                "Publisher": "Penguin",
+                "Title": "The Warriors Of Spider",
+                "Year": "2008"
+            },
+            "title": "Warriors of Spider, The"
+        },
+        {
+            "author": "Kim Stanley Robinson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1p8eyKrFtu0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1p8eyKrFtu0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Mars is politically independent. A brave and buzzing new world, fully\nterraformed with genetically engineered plants and animals. Earth has grown\ntoo much. Chronic overpopulation, scarce resources. For too many Terrans,\nMars is a mocking utopia. A dream to live for, fight for, perhaps even die\nfor.",
+            "isbn": "9780007121656",
+            "metadata": {
+                "Authors": [
+                    "Kim Stanley Robinson"
+                ],
+                "ISBN-13": "9780007121656",
+                "Language": "en",
+                "Publisher": "HarperCollins UK",
+                "Title": "Blue Mars",
+                "Year": "2001"
+            },
+            "title": "Blue Mars"
+        },
+        {
+            "author": "Orson Scott Card",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=56WymQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=56WymQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "HUMANS THOUGHT THEY WERE ALONE IN THE GALAXY. UNTIL NOW. A hundred years\nbefore Ender's Game, humanity is slowly making its way out to the planets\nof the solar system, exploring and mining asteroids. The ship El Cavador is\nfar from Earth, in the deeps of the Kuiper Belt, beyond Pluto. When the\nship's telescopes pick up a fast-moving object coming in-system, they're\nunsure what to make of it. Little do they know that this object is the most\nimportant thing to happen to the human race in a million years. It's\nhumanity's first contact with an alien race. The First Formic War is about\nto begin. BOOK ONE OF THE FIRST FORMIC WAR",
+            "isbn": "9780356502748",
+            "metadata": {
+                "Authors": [
+                    "Orson Scott Card",
+                    "Aaron Johnston"
+                ],
+                "ISBN-13": "9780356502748",
+                "Language": "en",
+                "Publisher": "Orbit Books",
+                "Title": "Earth Unaware",
+                "Year": "2013"
+            },
+            "title": "Earth Unaware"
+        },
+        {
+            "author": "Larry Niven",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NpgXBy5LQ40C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NpgXBy5LQ40C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780575040151",
+            "metadata": {},
+            "title": "Legacy of Heorot, The"
+        },
+        {
+            "author": "Kim Stanley Robinson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0VhiQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0VhiQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "As colonists begin to transform Mars into a livable, Earth-like planet,\ntensions erupt between those who would alter the planet into a paradise for\nhumanity and those who wish to preserve the planet's harsh, barren beauty",
+            "isbn": "9780553373356",
+            "metadata": {
+                "Authors": [
+                    "Kim Stanley Robinson"
+                ],
+                "ISBN-13": "9780553373356",
+                "Language": "en",
+                "Publisher": "Spectra",
+                "Title": "Green Mars",
+                "Year": "1994"
+            },
+            "title": "Green Mars"
+        },
+        {
+            "author": "Michael Flynn",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1qUwDy2kYccC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1qUwDy2kYccC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "In the early years of the 21st century humanity has advanced step by slow\nstep into space, but has discovered through constant monitoring of the\nheavens that certain asteroids have changed their orbits and are headed for\nhorrifying impact with Earth. Urgent action is required, but politics and a\nworldwide financial crash get in the way. The members of the van Huyten\nfamily, led by matriarch Mariesa who heads the vast space industry complex\nshe has spent her life developing, the Pooles with their computer and\nsecurity expertise, many political movers and shakers and dedicated pilots\nand space travelers of all stripes must pull together to save humanity from\ndisaster. From the government offices and factories of Earth, to the Low\nEarth Orbit station, to manufacturing facilities on the moon, all of space-\ngoing humanity is united in an epic effort to save the planet from certain\ndestruction and a new Dark Age, or perhaps even the extinction of all life\non Earth. At the Publisher's request, this title is being sold without\nDigital Rights Management Software (DRM) applied.",
+            "isbn": "9780312700829",
+            "metadata": {
+                "Authors": [
+                    "Michael Flynn"
+                ],
+                "ISBN-13": "9780312700829",
+                "Language": "en",
+                "Publisher": "Farrar, Straus, and Giroux",
+                "Title": "Falling Stars",
+                "Year": "2001"
+            },
+            "title": "Falling Stars"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788476680506",
+            "metadata": {},
+            "title": "Man Who Sold The Moon, The"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": "La Terre se meurt et les derniers représentants de l'espèce humaine\nprennent place à bord du Magellan pour un voyage de plusieurs centaines\nd'années. Au cours d'une escale sur une planète-océan colonisée longtemps\nauparavant par des vaisseaux-semeurs, l'équipage du Magellan rencontre des\nhumains pour qui la Terre n'est déjà plus qu'un lointain souvenir, une\nlégende.",
+            "isbn": "9782811202606",
+            "metadata": {
+                "Authors": [
+                    "Arthur C. Clarke"
+                ],
+                "ISBN-13": "9782811202606",
+                "Language": "fr",
+                "Publisher": "",
+                "Title": "Les chants de la terre lointaine",
+                "Year": "2010"
+            },
+            "title": "Songs of Distant Earth, The"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=jBtDSf1VzQkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=jBtDSf1VzQkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Robert Heinlein's Hugo Award-winning all-time masterpiece, the brilliant\nnovel that grew from a cult favorite to a bestseller to a science fiction\nclassic. Raised by Martians on Mars, Valentine Michael Smith is a human who\nhas never seen another member of his species. Sent to Earth, he is a\nstranger who must learn what it is to be a man. But his own beliefs and his\npowers far exceed the limits of humankind, and as he teaches them about\ngrokking and water-sharing, he also inspires a transformation that will\nalter Earth’s inhabitants forever...",
+            "isbn": "9781101208960",
+            "metadata": {
+                "Authors": [
+                    "Robert A. Heinlein"
+                ],
+                "ISBN-13": "9781101208960",
+                "Language": "en",
+                "Publisher": "Penguin",
+                "Title": "Stranger In A Strange Land",
+                "Year": "1987"
+            },
+            "title": "Stranger in a Strange Land"
+        },
+        {
+            "author": "Timothy Zahn",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=RRQoPF5_vxIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=RRQoPF5_vxIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781561001873",
+            "metadata": {},
+            "title": "Conqueror's Pride"
+        },
+        {
+            "author": "Larry Niven",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NmE9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NmE9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780345323446",
+            "metadata": {},
+            "title": "Footfall"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": "A high school senior wins a space suit in a soap jingle contest, takes a\nlast walk wearing \"Oscar\" before cashing him in for college tuition, and\nsuddenly finds himself on a space odyssey.",
+            "isbn": "9780345301031",
+            "metadata": {
+                "Authors": [
+                    "Robert A. Heinlein"
+                ],
+                "ISBN-13": "9780345301031",
+                "Language": "en",
+                "Publisher": "Del Rey",
+                "Title": "Have Space Suit - Will Travel",
+                "Year": "1981"
+            },
+            "title": "Have Space Suit Will Travel"
+        },
+        {
+            "author": "Peter F Hamilton",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1G6iuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1G6iuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "A reissued edition of the first novel in the Greg Mandel series from the\nmaster of space opera.It's the 21st century and global warming is here to\nstay, so forget the way your country used to look. And get used to the free\nmarket, too – the companies possess all the best hardware, and they're\ncalling the shots now. In a world like this, a man open to any offers can\nmake out just fine. A man like Greg Mandel for instance, who's psi-boosted,\nwired into the latest sensory equipment, carrying state-of-the-art weaponry\n– and late of the English Army's Mindstar Battalion. As the cartels battle\nfor control of a revolutionary new power source, and corporate greed\noutstrips national security, tension is mounting to boiling point – and\nGreg Mandel is about to face the ultimate test.",
+            "isbn": "9780330537742",
+            "metadata": {
+                "Authors": [
+                    "Peter F. Hamilton"
+                ],
+                "ISBN-13": "9780330537742",
+                "Language": "en",
+                "Publisher": "Tor",
+                "Title": "Mindstar Rising",
+                "Year": "2011"
+            },
+            "title": "Mindstar Rising"
+        },
+        {
+            "author": "Frederick Pohl",
+            "cover": null,
+            "desc": null,
+            "isbn": "9789590300974",
+            "metadata": {},
+            "title": "Space Merchants, The"
+        },
+        {
+            "author": "Gerard O'Neill",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DeAYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DeAYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780671447519",
+            "metadata": {},
+            "title": "2081"
+        },
+        {
+            "author": "Jay Barbree",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=VK2lCGBgjE0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=VK2lCGBgjE0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "A veteran space correspondent traces America's space history throughout the\npast fifty years, in an account that shares anecdotal portraits of\nastronauts and the author's fellow journalists while revealing how the\nspace program and its press coverage have evolved. 40,000 first printing.",
+            "isbn": "9780061233920",
+            "metadata": {
+                "Authors": [
+                    "Jay Barbree"
+                ],
+                "ISBN-13": "9780061233920",
+                "Language": "en",
+                "Publisher": "Harper Collins",
+                "Title": "\"Live From Cape Canaveral\"",
+                "Year": "2007"
+            },
+            "title": "Live From Cape Canaveral"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=xFULg0EyWbEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=xFULg0EyWbEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780795309052",
+            "metadata": {},
+            "title": "Moonwar"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781602520752",
+            "metadata": {},
+            "title": "Rolling Stones, The"
+        },
+        {
+            "author": "Payne Harrison",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=tBR8jFNs1MYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=tBR8jFNs1MYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780517079072",
+            "metadata": {},
+            "title": "Storming Intrepid"
+        },
+        {
+            "author": "James P Hogan",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=od9jPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=od9jPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "An army from Earth battles to regain control over a space colony that has\ndeveloped advanced technology but has evolved into a society that will do\nanything to retain their liberty. Reissue.",
+            "isbn": "9780671577988",
+            "metadata": {
+                "Authors": [
+                    "James P. Hogan"
+                ],
+                "ISBN-13": "9780671577988",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Voyage From Yesteryear",
+                "Year": "1999"
+            },
+            "title": "Voyage From Yesteryear"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=gmyRa0ADXm0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=gmyRa0ADXm0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "\"To the spaceship Discovery, floating in the silent depths of space since\nDave Bowman passed through the alien 'Star Gate', comes Heywood Floyd on a\nmission of recovery. What he finds near Jupiter is beyond the imaginings of\nany mere human.\" [Source : 4e de couv.].",
+            "isbn": "9780586056998",
+            "metadata": {
+                "Authors": [
+                    "Arthur Charles Clarke"
+                ],
+                "ISBN-13": "9780586056998",
+                "Language": "en",
+                "Publisher": "HarperCollins UK",
+                "Title": "2010",
+                "Year": "1997"
+            },
+            "title": "2010: Odyssey Two"
+        },
+        {
+            "author": "David Feintuch",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rcw0HQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rcw0HQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "When a hideous accident kills the senior officers of UNS Hibernia, it\nleaves a terrified young officer to save three hundred colonists and crew\naboard a damaged ship, on a seventeen-month gauntlet to reach the colony of\nHope Nation. With no chance of rescue or reinforcement, Nicholas Seafort\nmust overcome despair, exhaustion and guilt. He must conquer malfunctions,\nmutiny and an alien horror beyond human understanding. And he must save\nlives, and take them - in the name of duty.",
+            "isbn": "9781857234343",
+            "metadata": {
+                "Authors": [
+                    "David Feintuch"
+                ],
+                "ISBN-13": "9781857234343",
+                "Language": "en",
+                "Publisher": "Orbit Books",
+                "Title": "Midshipman's Hope",
+                "Year": "1996"
+            },
+            "title": "Midshipman's Hope"
+        },
+        {
+            "author": "Anne McCaffrey",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=U1t0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=U1t0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780671698638",
+            "metadata": {},
+            "title": "Sassinak"
+        },
+        {
+            "author": "James Benford",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iBgInQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iBgInQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "\"Based on the 2011 100 Year Starship Symposium.\"",
+            "isbn": "9781939051295",
+            "metadata": {
+                "Authors": [
+                    "Gregory Benford",
+                    "James Benford"
+                ],
+                "ISBN-13": "9781939051295",
+                "Language": "en",
+                "Publisher": "Microwave Sciences",
+                "Title": "Starship Century",
+                "Year": "2013"
+            },
+            "title": "Starship Century: Toward the Grandest Horizon"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781483050836",
+            "metadata": {},
+            "title": "Variable Star"
+        },
+        {
+            "author": "Clive Cussler",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=yOYlNDHoWVsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=yOYlNDHoWVsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780722127568",
+            "metadata": {},
+            "title": "Cyclops"
+        },
+        {
+            "author": "Allen Steele",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=q368BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=q368BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The former head of a lunar mining operation returns to the moon and is\nimmediately sucked into a dangerous morass of labor troubles, lies,\nlarceny, and corporate wrongdoing in this wildly entertaining science\nfiction thrill ride There is big trouble on the moon. The blue-collar\nworking stiffs of Descartes Station, who mine the surface for minerals and\nthe North Pole for water, have become increasingly dissatisfied with\nSkycorp’s general disregard for its employees’ well-being. Following the\nmost recent spate of layoffs, the labor strike grumblings have only grown\nlouder, so the company is sending former base administrator and recovering\nalcoholic Lester Riddell back into the fold in an attempt to boost morale\nand output alike. The truth, however, becomes shockingly apparent to\nRiddell almost immediately upon his return. Not only has he been\nunceremoniously dumped into a muddled mess of larceny, piracy, and\ncorporate malfeasance, it appears that Skycorp is purposely setting him up\nto fail—which could spell finis for Descartes Station and every trash-\ntalking, pot-smoking, porn-loving Vacuum Sucker and Moondog who toils\nthere. But as the Skycorp suits are about to discover, they’ve just made\nthe biggest mistake of their corporate lives—because Lester Riddell is\nnobody’s fall guy. Three-time Hugo Award winner Allen Steele has seen the\nnear future, and it isn’t pretty—it’s noisy, dirty, dangerous, and chaotic.\nThrilling, wildly inventive, delightfully profane, and totally outrageous,\nLunar Descent is one hell of rocket ride, with a master of science fiction\nat the helm.",
+            "isbn": "9781453274798",
+            "metadata": {
+                "Authors": [
+                    "Allen Steele"
+                ],
+                "ISBN-13": "9781453274798",
+                "Language": "en",
+                "Publisher": "Open Road Media",
+                "Title": "Lunar Descent",
+                "Year": "2015"
+            },
+            "title": "Lunar Descent"
+        },
+        {
+            "author": "Debra Doyle",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rIGehbpbkeMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rIGehbpbkeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "When an assassination on the Senate floor threatens the thirty-year peace\nbetween the human Republic and the mysterious Mageworlds, the victim's\ndaughter is forced to become accustomed to the galactic intrigue, but the\nGalaxy may never get used to her. Reissue.",
+            "isbn": "9780812517040",
+            "metadata": {
+                "Authors": [
+                    "Debra Doyle",
+                    "James D. Macdonald"
+                ],
+                "ISBN-13": "9780812517040",
+                "Language": "en",
+                "Publisher": "Macmillan",
+                "Title": "The Price Of The Stars",
+                "Year": "1992"
+            },
+            "title": "Price of the Stars, The"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780684923000",
+            "metadata": {},
+            "title": "Between Planets"
+        },
+        {
+            "author": "Buzz Aldrin",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=hYZKPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=hYZKPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Chronicles the story of an astronaut who discovers evidence of an extinct\nrace of aliens that has left evidence of their civilization on the moon and\nMars. Reprint.",
+            "isbn": "9780446604048",
+            "metadata": {
+                "Authors": [
+                    "Buzz Aldrin",
+                    "John Barnes"
+                ],
+                "ISBN-13": "9780446604048",
+                "Language": "en",
+                "Publisher": "Grand Central Pub",
+                "Title": "Encounter With Tiber",
+                "Year": "1997"
+            },
+            "title": "Encounter with Tiber"
+        },
+        {
+            "author": "Michael McCollum",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=oGzXAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=oGzXAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781929381067",
+            "metadata": {
+                "Authors": [
+                    "Michael McCollum"
+                ],
+                "ISBN-13": "9781929381067",
+                "Language": "en",
+                "Publisher": "Third Millennium Publications",
+                "Title": "Antares Dawn",
+                "Year": "1998"
+            },
+            "title": "Antares Dawn"
+        },
+        {
+            "author": "Allen Steele",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iZdfGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iZdfGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Two decades have passed since the revolution that won Coyote's independence\nfrom Earth. The colony may be free, but its aging computers, aircraft, and\nmedical equipment are badly in need of replacement. The colony's survival\nis now in question, and help from Earth is imminent. But there are those\nwho fear that aid from the mother world may be more hindrance than help. .\n. As the second generation of colonists prepare to face the prospect of\nanother battle with Earth's forces, a larger question looms: can humanity\nsettle a new planet without repeating the problems of the world it left\nbehind? An answer must be found soon. Coyote's future hangs in the balance.\n. .",
+            "isbn": "9781841493695",
+            "metadata": {
+                "Authors": [
+                    "Allen Steele"
+                ],
+                "ISBN-13": "9781841493695",
+                "Language": "en",
+                "Publisher": "Orbit Books",
+                "Title": "Coyote Frontier",
+                "Year": "2006"
+            },
+            "title": "Coyote"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": null,
+            "desc": "This novel follows the attempts of a small group of scientists who explore\nJupiter in the hope of finding intelligent life forms. Amongst the\nexplorers is Grant Archer who is planted on the expedition by a religious\ngroup who want to prove their own theories, but Grant has an open mind.",
+            "isbn": "9780340767641",
+            "metadata": {
+                "Authors": [
+                    "Ben Bova"
+                ],
+                "ISBN-13": "9780340767641",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Jupiter",
+                "Year": "2000"
+            },
+            "title": "Jupiter"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KPbPAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KPbPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781441714589",
+            "metadata": {},
+            "title": "Moonrise"
+        },
+        {
+            "author": "Kim Stanley Robinson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iRLAQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iRLAQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "John Boone, Maya Toitovna, Frank Chalmers, and Arkady Bogdanov lead a\nmission whose ultimate goal is the terraforming of Mars in order to release\nMartian moisture into their desolate atmosphere. Simultaneous.",
+            "isbn": "9780553371345",
+            "metadata": {
+                "Authors": [
+                    "Kim Stanley Robinson"
+                ],
+                "ISBN-13": "9780553371345",
+                "Language": "en",
+                "Publisher": "Spectra",
+                "Title": "Red Mars",
+                "Year": "1993"
+            },
+            "title": "Red Mars"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=OnQKmCvfBBkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=OnQKmCvfBBkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In a Balkanized North America of the near future, threatened by imminent\nextinction, a strikingly beautiful and resourceful interplanetary secret\nagent--an Artificial Person named Friday--tries to survive a gigantic human\ncomedy",
+            "isbn": "9780345309884",
+            "metadata": {
+                "Authors": [
+                    "Robert A. Heinlein"
+                ],
+                "ISBN-13": "9780345309884",
+                "Language": "en",
+                "Publisher": "Del Rey",
+                "Title": "Friday",
+                "Year": "1983"
+            },
+            "title": "Friday"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=kBsIAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=kBsIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781854340887",
+            "metadata": {},
+            "title": "Space Travel"
+        },
+        {
+            "author": "Larry Niven",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=5WZ_K91HEGAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=5WZ_K91HEGAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780007350162",
+            "metadata": {
+                "Authors": [
+                    "Larry Niven",
+                    "Jerry Pournelle"
+                ],
+                "ISBN-13": "9780007350162",
+                "Language": "en",
+                "Publisher": "HarperCollins UK",
+                "Title": "The Moat Around Murcheson's Eye",
+                "Year": "2009"
+            },
+            "title": "Gripping Hand, The"
+        },
+        {
+            "author": "Stephen Petranek",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781442378254",
+            "metadata": {},
+            "title": "How We'll Live On Mars"
+        },
+        {
+            "author": "Thomas D Damon",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=K3IAPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=K3IAPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "NASA is again reorganizing its resources to accomplish its fluctuating\nmissions. The fourth edition of Introduction to Space: The Science of\nSpaceflight has received a major overhaul to bring to you a readable\nunderstanding of how these goals may be achieved. It has been updated with\nthe latest information on the science and technology involved to explain\nwhy astronauts are weightless, what satellites do and why they don't fall\nfrom the sky, how we will live on Mars, and whether or not there is life\nelsewhere in the universe. The book is now profusely illustrated throughout\nwith 274 illustrations of which 102 are in color. All measurements are\npresented in both common units and in the international System of Units\n(SI), commonly called metric units.",
+            "isbn": "9780894640681",
+            "metadata": {
+                "Authors": [
+                    "Thomas Damon"
+                ],
+                "ISBN-13": "9780894640681",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Introduction To Space",
+                "Year": "2011"
+            },
+            "title": "Introduction to Space: The Science of Spaceflight"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788388431593",
+            "metadata": {},
+            "title": "Mars"
+        },
+        {
+            "author": "Greg Bear",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=OhKV8foHFGkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=OhKV8foHFGkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Moving Mars is a story of human courage and love set within the greater\nsaga of a planetary liberation movement. Mars is a colonial world, governed\nby corporate interests on Earth. The citizens of Mars are hardworking, but\nheld back by their lack of access to the best education, and the desire of\nthe Earthly powers to keep the best new inventions for themselves. The\nyoung Martians -- the second and third generations born on Mars -- have\nlittle loyalty to Earth, and a strong belief that their planet can be\nindependent. The revolution begins slowly, but will grow in power over\ndecades of political struggle until it becomes irresistible. Told through\nthe eyes of an extraordinary character, Casseia Majumdar, a daughter of one\nof Mars' oldest, most conservative Binding Multiples, Moving Mars is Greg\nBear's brilliant conception of the human colonization of the red planet,\nwith lovingly painted details and a grand historical sweep, embellishing an\naudacious scientific speculation.",
+            "isbn": "9780765318237",
+            "metadata": {
+                "Authors": [
+                    "Greg Bear"
+                ],
+                "ISBN-13": "9780765318237",
+                "Language": "en",
+                "Publisher": "Macmillan",
+                "Title": "Moving Mars",
+                "Year": "2007"
+            },
+            "title": "Moving Mars"
+        },
+        {
+            "author": "Peter David",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=zUT8DPv57RIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=zUT8DPv57RIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "When the Enterprise answers a distress call and finds a single survivor\nfrom an attack by the fierce Borg, the crew little realizes that the\nsurvivor's quest for revenge threatens the entire galaxy",
+            "isbn": "9780671741457",
+            "metadata": {
+                "Authors": [
+                    "Peter David"
+                ],
+                "ISBN-13": "9780671741457",
+                "Language": "en",
+                "Publisher": "Simon and Schuster",
+                "Title": "Vendetta",
+                "Year": "1991"
+            },
+            "title": "Vendetta"
+        },
+        {
+            "author": "Stephen Baxter",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=s2EAQOxquUAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=s2EAQOxquUAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "What if John F. Kennedy survived?",
+            "isbn": "9780007445400",
+            "metadata": {
+                "Authors": [
+                    "Stephen Baxter"
+                ],
+                "ISBN-13": "9780007445400",
+                "Language": "en",
+                "Publisher": "HarperCollins UK",
+                "Title": "Voyage",
+                "Year": "2012"
+            },
+            "title": "Voyage"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": "A classic novel from the mind of the storyteller who captures the\nimagination of readers from around the world, and across two generations\nScience Fiction Grand Master ROBERT A. HEINLEIN STARMAN JONES It was a\ndesperate time, when one's next meal and the comforts of home couldn't be\ntaken for granted. Max Jones, a practical, hard-working young man, found\nhis escape in his beloved astronomy books. When reality comes crashing in\nand his troubled home life forces him out on the road, Max finds himself\nadrift in a downtrodden land. Until an unexpected, ultimate adventure -- as\na stowaway aboard an intergalactic spaceship -- carries him away...but to\nwhere? And \"when?\" And how could he ever get back? With the ship's pilot\ndead and his charts and tables are destroyed, Max must call upon all of his\nuntested knowledge and skills in order to survive....",
+            "isbn": "9780345275950",
+            "metadata": {
+                "Authors": [
+                    "Robert A. Heinlein"
+                ],
+                "ISBN-13": "9780345275950",
+                "Language": "en",
+                "Publisher": "Del Rey",
+                "Title": "Starman Jones",
+                "Year": "1978"
+            },
+            "title": "Starman Jones"
+        },
+        {
+            "author": "Jerry Pournelle",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780708880876",
+            "metadata": {
+                "Authors": [
+                    "Jerry Pournelle"
+                ],
+                "ISBN-13": "9780708880876",
+                "Language": "en",
+                "Publisher": "Sphere",
+                "Title": "King David's Spaceship",
+                "Year": "1981"
+            },
+            "title": "King David's Spaceship"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2zoNLkp_qxAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2zoNLkp_qxAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781538427880",
+            "metadata": {},
+            "title": "Orphans of the Sky"
+        },
+        {
+            "author": "Janet Morris",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KMem14s0vMcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KMem14s0vMcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Joe South, a young test pilot heading home from a mission, awakens in his\nship to discover that he has traveled five hundred years into the future\nand landed on the planet Threshold, where he soon finds himself embroiled\nin the dangerous, deceptive, and alien world",
+            "isbn": "9780451450227",
+            "metadata": {
+                "Authors": [
+                    "Janet Morris",
+                    "Chris Morris"
+                ],
+                "ISBN-13": "9780451450227",
+                "Language": "en",
+                "Publisher": "Roc",
+                "Title": "Threshold",
+                "Year": "1990"
+            },
+            "title": "Threshold"
+        },
+        {
+            "author": "Jules Verne",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788472917897",
+            "metadata": {},
+            "title": "From the Earth to the Moon"
+        },
+        {
+            "author": "Jerry M Linenger",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0v8IBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0v8IBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781559725163",
+            "metadata": {},
+            "title": "Off The Planet"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": "Jim Marlow and his strange-looking Martian friend Willis were allowed to\ntravel only so far. But one day Willis unwittingly tuned into a treacherous\nplot that threatened all the colonists on Mars, and it set Jim off on a\nterrfying adventure that could save--or destroy--them all! \"From the\nPaperback edition.",
+            "isbn": "9789780345495",
+            "metadata": {
+                "Authors": [
+                    "Robert A Heinlein"
+                ],
+                "ISBN-13": "9789780345495",
+                "Language": "en",
+                "Publisher": "Del Rey Books",
+                "Title": "Red Planet",
+                "Year": "2006"
+            },
+            "title": "Red Planet"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=FPiSpwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=FPiSpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Año 2075: el joven Matt Dodson decide ingresar en una prestigiosa academia\nespacial. Allí conoce a otros jóvenes que persiguen el mismo sueño, pero\nsolo los mejores y más brillantes, los más fuertes y valientes, logran\nconvertirse en cadetes del espacio.",
+            "isbn": "9788498007459",
+            "metadata": {
+                "Authors": [
+                    "Robert A. Heinlein"
+                ],
+                "ISBN-13": "9788498007459",
+                "Language": "es",
+                "Publisher": "LA Factoria De Ideas",
+                "Title": "Cadete del espacio",
+                "Year": "2012"
+            },
+            "title": "Space Cadet"
+        },
+        {
+            "author": "David Gerrold",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=SlwRAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=SlwRAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780606255325",
+            "metadata": {},
+            "title": "Jumping Off The Planet"
+        },
+        {
+            "author": "Michael McCollum",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=J7VWAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=J7VWAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "THE NEW COMET found near Jupiter was an incredible treasure trove of water-\nice and rock. Immediately, the water-starved Luna Republic and sierra\nCorporation, a leader in asteroid mining, were squabbling over rights to\nthe new resource. But all thoughts of profit and fame were abandoned when a\nscientific expedition discovered that the comets trajectory placed it on a\ncollision course with Earth! As scientists struggled to find a way to alter\nthe comet's course, world leaders tried desperately to restrain mass panic,\nand two lovers quarreled over the direction the comet was to take, all\nEarth waited to see if humanity had any future at all",
+            "isbn": "9780738800103",
+            "metadata": {
+                "Authors": [
+                    "Michael McCollum"
+                ],
+                "ISBN-13": "9780738800103",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Thunderstrike!",
+                "Year": "1998"
+            },
+            "title": "Thunder Strike"
+        },
+        {
+            "author": "Homer H Hickam",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Bv2IOQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Bv2IOQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780606252935",
+            "metadata": {},
+            "title": "Back To The Moon"
+        },
+        {
+            "author": "Isaac Asimov",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=08kxygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=08kxygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Una nueva obra por el maestro universal de la ciencia ficción, Isaac\nAsimov. Año 2236. La Tierra y su centenar de colinas espaciales están\nsuperpobladas; llevan una vida anárquica y socialmente degenerada. A dos\naños luz de distancia, oculta en un rincón de la galaxia, brilla una\nestrella parecida al Sol de la Tierra, una estrella que posee su propio\nsistema planetario: Megas, Erythro y Rotor, una colonia renegada de la\nTierra. La estrella se llama Némesis y al ser descubierta es considerada\ncomo la última esperanza de la raza humana, un nuevo punto de partida para\nun valiente grupo de aventureros dirigidos por Januss Pitt, un individuo\nbrillante pero megalómano. Pitt y sus leales seguidores se han separado en\nsecreto de la órbita de la Tierra viajando por vía superluminal hasta el\nSistema Nemético para establecer allí una nueva Utopía, una sociedad más\nfuerte, más pura y, en definitiva, superior a la dejada atrás. Sin embargo,\nMarlene, una chica de quince años natural de Rotor, se ha enterado de la\nsutil aunque terrible amenaza que Némesis representa para la Tierra y sus\nhabitantes. En realidad, Pitt ha dedicado su vida a asegurarse de que esta\nnueva civilización se convierta en la potencia suprema de la galaxia, al\nprecio que sea. Y no permitirá que nadie se interponga en su camino.\nMarlene llega a descubrir que Némesis no solo amenaza a la Tierra, sino\ntambién a Rotor, e intenta salvar a ambos. Reseña: «Asimov consigue su\nmejor literatura cuando sus personajes hablan de ciencia y de sus\npropuestas para salvar la Tierra de ser destruida por Némesis.» Publishers\nWeekly",
+            "isbn": "9788490325360",
+            "metadata": {
+                "Authors": [
+                    "Isaac Asimov"
+                ],
+                "ISBN-13": "9788490325360",
+                "Language": "es",
+                "Publisher": "DEBOLS!LLO",
+                "Title": "Némesis",
+                "Year": "2013"
+            },
+            "title": "Nemesis"
+        },
+        {
+            "author": "Robert Zubrin",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=uTYKBCALgB8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=uTYKBCALgB8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Recounts the virtual missions of the Mars Society space pioneer team, who\nwhile waiting for new technological advances in the space program,\nreplicated and simulated the real-life challenges of exploring Mars on the\nharshest terrains on Earth. Reprint.",
+            "isbn": "9781585423507",
+            "metadata": {
+                "Authors": [
+                    "Robert Zubrin"
+                ],
+                "ISBN-13": "9781585423507",
+                "Language": "en",
+                "Publisher": "Tarcher",
+                "Title": "Mars On Earth",
+                "Year": "2004"
+            },
+            "title": "Mars On Earth"
+        },
+        {
+            "author": "Jack McDevitt",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=y7xXdz_jcQkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=y7xXdz_jcQkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "It's the 21st century, and all is right with the world. Or so it seems.\nVice President Charlie Haskell, who will travel anywhere for a photo op, is\nabout to cut the ribbon for the just-completed American Moonbase. The first\nMars voyage is about to leave high orbit, with a woman at the helm. Below,\nthe world is marveling at a rare solar eclipse. But all that is right is\nabout to go disastrously wrong when an amateur astronomer discovers a new\ncomet. Named for its discover, Tomikois a \"sun-grazer,\"an interstellar\nwanderer with a hundred times the mass and ten times the speed of other\ncomets. And it is headed straight for our moon. In less than five days, if\nscientists' predictions are right, Tomiko will crash into the moon,\nshattering it into a cloud of superheated gas, dust, and huge chunks of\nrock that will rain down on the earth, causing chaos and killer storms,\npossibly tidal waves inundating entire cities...or worse: a single\napocalyptic worldwide \"extinction event.\" In the meantime, the population\nof Moonbase must be evacuated by a hastily assembled fleet of shuttle\nrockets. There isn't room, or time enough, for everyone. And the vice\npresident, who rashly promised to be last off (\"I will lock the door and\nturn off the lights\"), is trying to figure out how to get away without\neating his words. In Moonfall,McDevitt has created a disaster thriller of\ntruly epic proportions, featuring a cast of unforgettable characters: the\nreluctant Russian rocket jockey entrusted with the lives of squabbling\nrefugees; the woman chosen to be first on the moon; the scientist who must\ndeflect the \"possum\" (POSSible IMpactors) knocked from orbit or witness the\nend science itself. And at the center of it all is Charlie Haskell, the\ncareer politician who discovers his own unexpected reserves of only himself\nand his country, but for all humankind. Moonfall,is a spellbinding tale of\nheroism and hope, cowardice and passion played against the awesome\nspectacle of human history's darkest night.",
+            "isbn": "9780061946288",
+            "metadata": {
+                "Authors": [
+                    "Jack McDevitt"
+                ],
+                "ISBN-13": "9780061946288",
+                "Language": "en",
+                "Publisher": "Harper Collins",
+                "Title": "Moonfall",
+                "Year": "2009"
+            },
+            "title": "Moonfall"
+        },
+        {
+            "author": "Michael Flynn",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=mN-TSlw1lN0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=mN-TSlw1lN0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781470836238",
+            "metadata": {},
+            "title": "Rogue Star"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_bAWAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_bAWAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781441775719",
+            "metadata": {},
+            "title": "Venus"
+        },
+        {
+            "author": "Charles Sheffield",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=La67gWjkSU8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=La67gWjkSU8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In the 277th century, Earth is dead, but mankind survives in colonies\nscattered across the galaxy. To these new worlds come the Immortals, beings\nwith strange ties to ancient Earth who seem to live forever, who can travel\nlight years in days - and who use their strange powers to control the\nexistence of ordinary mortals. On the planet Pentecost, a small group sets\nout to find and challenge the Immortals. But in the search they themselves\nare changed: as Immortals, they discover a new threat, not just to\nthemselves, but to the galaxy itself.",
+            "isbn": "9780575085404",
+            "metadata": {
+                "Authors": [
+                    "Charles Sheffield"
+                ],
+                "ISBN-13": "9780575085404",
+                "Language": "en",
+                "Publisher": "Hachette UK",
+                "Title": "Between The Strokes Of Night",
+                "Year": "2013"
+            },
+            "title": "Between the Strokes of Night"
+        },
+        {
+            "author": "Allen Steele",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781480440050",
+            "metadata": {},
+            "title": "Orbital Decay"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=YvPLCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=YvPLCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780340840900",
+            "metadata": {},
+            "title": "Precipice, The"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780440025184",
+            "metadata": {},
+            "title": "Farmer in the Sky"
+        },
+        {
+            "author": "Michael Flynn",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781470836207",
+            "metadata": {},
+            "title": "Firestar"
+        },
+        {
+            "author": "Michael Flynn",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=tsS3nYzqrtEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=tsS3nYzqrtEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781470836375",
+            "metadata": {},
+            "title": "Lodestar"
+        },
+        {
+            "author": "William Dietz",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781497606838",
+            "metadata": {},
+            "title": "Mars Prime"
+        },
+        {
+            "author": "Charles Sheffield",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rHNRtNP3PCUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rHNRtNP3PCUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Twenty-five years after the great war between the inner planets and the\nasteroid belt, several of the individuals involved in the war prepare to do\nbattle again.",
+            "isbn": "9780812511635",
+            "metadata": {
+                "Authors": [
+                    "Charles Sheffield"
+                ],
+                "ISBN-13": "9780812511635",
+                "Language": "en",
+                "Publisher": "Macmillan",
+                "Title": "Cold As Ice",
+                "Year": "1993"
+            },
+            "title": "Cold As Ice"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780575020115",
+            "metadata": {},
+            "title": "Imperial Earth"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=owmWmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=owmWmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Visionary space industrialist Dan Randolph is dead-but his protégé, pilot\nPancho Barnes, now sits on the board of his conglomerate. She has her work\ncut out for her. For Randolph's rival Martin Humphries still wants to\ncontrol Astro and still wants to drive independent asteroid miners like\nLars Fuchs out of business. Humphries wants revenge against Pancho-ands,\nmost of all, he wants his old flame Amanda, who has become Lars Fuchs's\nwife. In the struggle over the incalculable wealth of the Asteroid Belt,\nmany will die-and many will achieve more than they ever dreamed was\npossible.",
+            "isbn": "9780812579888",
+            "metadata": {
+                "Authors": [
+                    "Ben Bova"
+                ],
+                "ISBN-13": "9780812579888",
+                "Language": "en",
+                "Publisher": "Tor Science Fiction",
+                "Title": "The Rock Rats",
+                "Year": "2003"
+            },
+            "title": "Rock Rats, The"
+        },
+        {
+            "author": "Wally Schirra",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=v3_bGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=v3_bGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781557701046",
+            "metadata": {},
+            "title": "Schirra's Space"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780575113060",
+            "metadata": {},
+            "title": "Cat Who Walks Through Walls, The"
+        },
+        {
+            "author": "Bob Shaw",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780194242356",
+            "metadata": {
+                "Authors": [
+                    ""
+                ],
+                "ISBN-13": "9780194242356",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Orbitsville",
+                "Year": "1979"
+            },
+            "title": "Orbitsville"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780575113176",
+            "metadata": {},
+            "title": "Rocket Ship Galileo"
+        },
+        {
+            "author": "Gerald Driggers",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=C427swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=C427swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The birthplace of the human race is facing cataclysm and humanity will\nperish. Does the race that calls Earth home have the vision, the\ndetermination, the know-how to evolve into the space-faring species that it\nmust become in order to survive? Ordinary people are faced with\nextraordinary choices - some hesitate, some succumb to personal ambition,\nsome choose belief over science, and some simply give up. To those who\ncling to a vision of humans as more than an Earth-bound species, Mars\nprovides hope for all - a new home and a haven for humanity. It has\nbeckoned for decades, but as of 2045 only robots have visited the Red\nPlanet. Now Mars has become the key to survival, but it may be too late.\nHope for Humanity is the first book in the Earth-Mars Chronicles, the story\nof the struggle of humanity with itself when faced with survival as a\nspecies. Are we capable of sacrificing individual ambition for the\ncontinuation of the race? Can we become a global community and accomplish\ngreatness in a time of great peril? And most importantly, can we become the\nchildren of Earth and Mars to save humanity?",
+            "isbn": "9781595944818",
+            "metadata": {
+                "Authors": [
+                    "Gerald W. Driggers"
+                ],
+                "ISBN-13": "9781595944818",
+                "Language": "en",
+                "Publisher": "Wingspan Press",
+                "Title": "The Earth-Mars Chronicles",
+                "Year": "2012"
+            },
+            "title": "Earth Mars Chronicles: Hope For Humanity"
+        },
+        {
+            "author": "H.G Wells",
+            "cover": null,
+            "desc": null,
+            "isbn": "9783752839692",
+            "metadata": {},
+            "title": "First Men in the Moon, The"
+        },
+        {
+            "author": "Gregory Benford",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781483039947",
+            "metadata": {},
+            "title": "Martian Race, The"
+        },
+        {
+            "author": "Stephen Baxter",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=oFAorgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=oFAorgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "Humankind's greatest--and last--adventure Possible signs of organic life\nhave been found on Titan, Saturn's largest moon. A group of visionaries led\nby NASA's Paula Benacerraf plan a daring one-way mission that will cost\nthem everything. Taking nearly a decade, the billion-mile voyage includes a\n\"slingshot\" transit of Venus, a catastrophic solar storm, and a constant\nstruggle to keep the ship and crew functioning. But it is on the icy\nsurface of Titan itself that the true adventure begins. In the orange\nmethane slush the astronauts will discover the secret of life's origins and\nreach for a human destiny beyond their wildest dreams.",
+            "isbn": "9780008134525",
+            "metadata": {
+                "Authors": [
+                    "Stephen Baxter"
+                ],
+                "ISBN-13": "9780008134525",
+                "Language": "en",
+                "Publisher": "Voyager",
+                "Title": "The Nasa Trilogy (2) - Titan",
+                "Year": "2015"
+            },
+            "title": "Titan"
+        },
+        {
+            "author": "Allen Steele",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2lwRmQaKJ6oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2lwRmQaKJ6oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781440665349",
+            "metadata": {},
+            "title": "Clarke County, Space"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=RUYqAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=RUYqAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780345306326",
+            "metadata": {},
+            "title": "Earthlight"
+        },
+        {
+            "author": "Charles Sheffield",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Srv4C-0CXocC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Srv4C-0CXocC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Kicked out of school after a misfired practical joke, Rick Luban takes a\njob mining asteroids and is surprised by the industry's fierce competition\nand dangers, which include sabotage and murder. Reprint.",
+            "isbn": "9780812538908",
+            "metadata": {
+                "Authors": [
+                    "Charles Sheffield",
+                    "Jerry Pournelle"
+                ],
+                "ISBN-13": "9780812538908",
+                "Language": "en",
+                "Publisher": "Macmillan",
+                "Title": "Higher Education",
+                "Year": "1997"
+            },
+            "title": "Higher Education"
+        },
+        {
+            "author": "Sean Williams",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=o79MYzLF7yAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=o79MYzLF7yAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "In the early twenty-second century, human engrams, or electronic\nreproductions, explore the known universe, searching for signs of life, but\nwhen they stumble onto what appear to be gifts from an advanced alien race,\nincluding a faster-than-light spacecraft, it may be more than humankind can\nhandle, in the first volume of a new trilogy. Original.",
+            "isbn": "9780441008926",
+            "metadata": {
+                "Authors": [
+                    "Sean Williams",
+                    "Shane Dix"
+                ],
+                "ISBN-13": "9780441008926",
+                "Language": "en",
+                "Publisher": "Penguin",
+                "Title": "Echoes Of Earth",
+                "Year": "2001"
+            },
+            "title": "Echoes of Earth"
+        },
+        {
+            "author": "Robert A Heinlein",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_2MEAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_2MEAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781897350409",
+            "metadata": {},
+            "title": "Podkayne of Mars"
+        },
+        {
+            "author": "Allen Steele",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781480440012",
+            "metadata": {},
+            "title": "Tranquility Alternative, The"
+        },
+        {
+            "author": "Wil McCarthy",
+            "cover": null,
+            "desc": null,
+            "isbn": "9781465736864",
+            "metadata": {},
+            "title": "Bloom"
+        },
+        {
+            "author": "David Drake",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=6p5QYWCEUnMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=6p5QYWCEUnMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781522669319",
+            "metadata": {},
+            "title": "Starliner"
+        },
+        {
+            "author": "Thomas Hoover",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=sNXmebki4wIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=sNXmebki4wIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Bantam 1992The Aegean, ex-agent Michael Vance pilots the Odyssey II, a\nhandmade replica. A Russian gunship with Arab terrorists takes a tiny\nisland where a U.S. corporation has a laser space facility. The renegades\nconvert the launch vehicle into a ballistic missile that can deliver their\nstolen nuclear warhead to any city in the U.S. Can Vance stop them?Idea\npoints: Aerospace, Ulysses,",
+            "isbn": "9781452394657",
+            "metadata": {
+                "Authors": [
+                    "Thomas Hoover"
+                ],
+                "ISBN-13": "9781452394657",
+                "Language": "en",
+                "Publisher": "Thomas Hoover",
+                "Title": "Project Cyclops",
+                "Year": "2010"
+            },
+            "title": "Project Cyclops"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2xTBXCu8z9YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2xTBXCu8z9YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780312851040",
+            "metadata": {},
+            "title": "Empire Builders"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": null,
+            "desc": null,
+            "isbn": "9788440656919",
+            "metadata": {},
+            "title": "Hammer of God, The"
+        },
+        {
+            "author": "Arthur C Clarke",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=13H_BQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=13H_BQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780345341020",
+            "metadata": {},
+            "title": "Prelude to Space"
+        },
+        {
+            "author": "Gerald Driggers",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=pKapHGcmeIEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=pKapHGcmeIEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781512270754",
+            "metadata": {},
+            "title": "Earth-Mars Chronicles: Home For Humanity"
+        },
+        {
+            "author": "Frederick Pohl",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=u-RmnAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=u-RmnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The discovery of another habitable world might spell salvation to the three\nbitterly competing power blocs of the resource-starved 21st century; but\nwhen their representatives arrive on Jem, with its multiple intelligent\nspecies, they discover instead the perfect situation into which to export\ntheir rivalries. Subtitled, with savage irony, 'The Making of a Utopia',\nJem is one of Frederik Pohl's most powerful novels.",
+            "isbn": "9781473201705",
+            "metadata": {
+                "Authors": [
+                    "Frederik Pohl"
+                ],
+                "ISBN-13": "9781473201705",
+                "Language": "en",
+                "Publisher": "Gollancz",
+                "Title": "Jem",
+                "Year": "2014"
+            },
+            "title": "Jem"
+        },
+        {
+            "author": "Buzz Aldrin",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ZBwsers--78C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ZBwsers--78C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "The history-making astronaut, aerospace engineer and respected advocate for\nspace colonization outlines a plan for taking humans to Mars within the\nnext quarter century, posing business-specific arguments while outlining\npractical strategies for travel and planetary homesteading.",
+            "isbn": "9781426210174",
+            "metadata": {
+                "Authors": [
+                    "Buzz Aldrin",
+                    "Leonard David"
+                ],
+                "ISBN-13": "9781426210174",
+                "Language": "en",
+                "Publisher": "National Geographic Society",
+                "Title": "Mission To Mars",
+                "Year": "2013"
+            },
+            "title": "Mission to Mars: My Vision for Space Exploration"
+        },
+        {
+            "author": "Pohl Anderson",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=6Mp0QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=6Mp0QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "When SETI astronomers stumble upon evidence of a highly advanced starfaring\ncivilization, an expedition made up of a motley assortment of scientists is\nput together to investigate, but their journey could have unexpected\nramifications. 25,000 first printing.",
+            "isbn": "9780312860370",
+            "metadata": {
+                "Authors": [
+                    "Poul Anderson"
+                ],
+                "ISBN-13": "9780312860370",
+                "Language": "en",
+                "Publisher": "Tor Books",
+                "Title": "Starfarers",
+                "Year": "1998"
+            },
+            "title": "Starfarers"
+        },
+        {
+            "author": "W. Michael Gear",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=2UMAAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2UMAAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "The Ahimsa take control of the Earth and force humanity to do their\nbidding, but when the Earth's most skilled task force embarks on an attack\nagainst a distant space station, they realize that the greatest danger to\nhumanity's future lay in their midst. Reprint.",
+            "isbn": "9780886774271",
+            "metadata": {
+                "Authors": [
+                    "W. Michael Gear"
+                ],
+                "ISBN-13": "9780886774271",
+                "Language": "en",
+                "Publisher": "D A W Books, Incorporated",
+                "Title": "Starstrike",
+                "Year": "1990"
+            },
+            "title": "Starstrike"
+        },
+        {
+            "author": "James P Hogan",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=lIsNa5yrGmMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=lIsNa5yrGmMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781522600923",
+            "metadata": {},
+            "title": "Cradle of Saturn"
+        },
+        {
+            "author": "Robert L Forward",
+            "cover": null,
+            "desc": "The scientist/author explores the realm of technological advances that\nbridge the gap between today's science fiction creations and tomorrow's\nscientific breakthroughs",
+            "isbn": "9780380898145",
+            "metadata": {
+                "Authors": [
+                    "Robert L. Forward"
+                ],
+                "ISBN-13": "9780380898145",
+                "Language": "en",
+                "Publisher": "Avon Books",
+                "Title": "Future Magic",
+                "Year": "1988"
+            },
+            "title": "Future Magic"
+        },
+        {
+            "author": "Margaret Wander Bonanno",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780671010935",
+            "metadata": {},
+            "title": "Probe"
+        },
+        {
+            "author": "Ben Bova",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NHEChBndy8AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NHEChBndy8AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9781433227653",
+            "metadata": {},
+            "title": "Powersat"
+        },
+        {
+            "author": "Wernher Von Braun",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=-O42AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=-O42AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": null,
+            "isbn": "9780030637056",
+            "metadata": {},
+            "title": "Space Frontier"
+        },
+        {
+            "author": "Janet Morris",
+            "cover": null,
+            "desc": null,
+            "isbn": "9780441799558",
+            "metadata": {
+                "Authors": [
+                    "Janet Morris",
+                    "David Drake"
+                ],
+                "ISBN-13": "9780441799558",
+                "Language": "en",
+                "Publisher": "Ace Books",
+                "Title": "Target",
+                "Year": "1989"
+            },
+            "title": "Target"
+        },
+        {
+            "author": "Jane Werner",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_vrnDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_vrnDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "desc": "Mickey Mouse and Donald Duck enter a contest to build a space ship and fly\nit to the Moon and back, but Pegleg Pete overhears their plans and steals\ntheir spacecraft.",
+            "isbn": "9780736436335",
+            "metadata": {
+                "Authors": [
+                    "Jane Werner",
+                    "Jane Werner Watson"
+                ],
+                "ISBN-13": "9780736436335",
+                "Language": "en",
+                "Publisher": "",
+                "Title": "Walt Disney's Mickey Mouse And His Spaceship",
+                "Year": "1952"
+            },
+            "title": "Walt Disney's Mickey Mouse and His Space Ship"
+        },
+        {
+            "author": "Paul Gilster",
+            "cover": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vgKbcQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vgKbcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "desc": "I wrote this book because I wanted to learn more about interstel lar\nflight. Not the Star Trek notion of tearing around the Galaxy in a huge\nspaceship-that was obviously beyond existing tech nology-but a more\nrealistic mission. In 1989 I had videotaped Voyager 2's encounter with\nNeptune and watched the drama of robotic exploration over and over again. I\nstarted to wonder whether we could do something similar with Alpha\nCentauri, the nearest star to the Sun. Everyone seemed to agree that manned\nflight to the stars was out of the question, if not permanently then for\nthe indefinitely foreseeable future. But surely we could do something with\nrobotics. And if we could figure out a theoretical way to do it, how far\nwere we from the actual technology that would make it happen? In other\nwords, what was the state of our interstellar technology today, those\nconcepts and systems that might translate into a Voyager to the stars?\nFinding answers meant talking to people inside and outside of NASA. I was\nsurprised to learn that there is a large literature of interstellar flight.\nNobody knows for sure how to propel a space craft fast enough to make the\ninterstellar crossing within a time scale that would fit the conventional\nidea of a mission, but there are candidate systems that are under active\ninvestigation. Some of this effort begins with small systems that we'll use\nnear the Earth and later hope to extend to deep space missions.",
+            "isbn": "9781441918185",
+            "metadata": {
+                "Authors": [
+                    "Paul Gilster"
+                ],
+                "ISBN-13": "9781441918185",
+                "Language": "en",
+                "Publisher": "Copernicus",
+                "Title": "Centauri Dreams",
+                "Year": "2011"
+            },
+            "title": "Centauri Dreams: Imagining and Planning Interstellar Exploration"
+        }
+    ]
+}

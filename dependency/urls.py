@@ -24,6 +24,8 @@ router.register(r'tags', views.TagViewSet)
 router.register(r'users', views.UserViewSet)
 router.register(r'predecessors', views.PredecessorViewSet)
 router.register(r'successors', views.SuccessorViewSet)
+router.register(r'movies',views.MovieViewSet)
+router.register(r'books',views.BookViewSet)
 
 # The API URLs are now determined automatically by the router.
 urlpatterns = [

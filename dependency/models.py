@@ -17,6 +17,74 @@ class Tags(models.Model):
     def __str__(self):
         return self.name
 
+class Movie(models.Model):
+    """A movie"""
+    title = models.CharField(max_length=100)
+    elementID = models.CharField(max_length=200,null=True, blank=True)
+    tmdb_id = models.CharField(max_length=200,null=True, blank=True)
+    
+    ONE_STAR = 1
+    TWO_STARS = 2
+    THREE_STARS = 3
+    FOUR_STARS = 4
+    FIVE_STARS = 5
+
+    STARS = (
+        (ONE_STAR, '*'),
+        (TWO_STARS, '**'),
+        (THREE_STARS, '***'),
+        (FOUR_STARS, '**** '),
+        (FIVE_STARS, '*****')
+    )
+    rating = models.SmallIntegerField(null=True, blank=True)
+    description = models.TextField(null=True, blank=True)
+    director = models.CharField(max_length=200,null=True, blank=True)
+    links = models.URLField(max_length=1000,null=True, blank=True)
+    picture = models.URLField(null=True, blank=True)
+    release_date = models.DateField(null=True, blank=True)
+    production_company = models.CharField(max_length=200,null=True, blank=True)
+    motto = models.TextField(null=True, blank=True)
+    genre = models.CharField(max_length=200,null=True, blank=True)
+    cast = models.TextField(null=True, blank=True)
+    video = models.URLField(max_length=1000,null=True, blank=True)
+    violence = models.SmallIntegerField(choices=STARS, null=True, blank=True)
+    nudity = models.SmallIntegerField(choices=STARS, null=True, blank=True)
+    horror = models.SmallIntegerField(choices=STARS, null=True, blank=True)
+
+    G = "G"
+    PG = "PG"
+    PG_13 = "PG-13"
+    R = "R"
+    N_A = "N/A"
+
+    MPAA_RATING = (
+        (G,'G'),
+        (PG,'PG'),
+        (PG_13, 'PG-13'),
+        (R,'R'),
+        (N_A,'N/A')
+    )
+
+    mpaa_rating = models.CharField(max_length=5, choices=MPAA_RATING, null=True)
+    trivia = models.TextField(null=True, blank=True)
+
+class Book(models.Model):
+    """ A book """
+    title = models.CharField(max_length=200)
+    elementID = models.CharField(max_length=200,null=True, blank=True)
+    librarything_id = models.CharField(max_length=200,null=True, blank=True)
+    authors = JSONField(null=True)  
+    genre = JSONField(null=True)
+    subgenre = models.CharField(max_length=200,null=True, blank=True)
+    description = models.TextField(null=True, blank=True)
+    thumbnail = JSONField(null=True)
+    release_date = models.DateField(null=True, blank=True)
+    tags = models.TextField(null=True, blank=True)
+    editions = models.TextField(null=True, blank=True)
+    goodreads = models.TextField(null=True, blank=True)
+    isbn = models.CharField(max_length=100,null=True, blank=True)
+    asin = models.CharField(max_length=100,null=True, blank=True)
+
 class Successors(models.Model):
     """The through class for a successor task so the edge can be annotated"""
     successor_source_task = models.ForeignKey('Tasks', related_name='successor_source_task', on_delete=models.DO_NOTHING)

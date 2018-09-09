@@ -2,7 +2,28 @@
 
 from django.contrib.auth.models import User
 from rest_framework import serializers
-from dependency.models import Tags, Tasks, Successors, Predecessors
+from dependency.models import Tags, Tasks, Successors, Predecessors, Movie, Book
+
+
+class MovieSerializer(serializers.ModelSerializer):
+    """Movie  Serializer"""
+    class Meta: # pylint: disable=too-few-public-methods
+        model = Movie
+        fields = ('url', 'id',
+                  'title', 'rating', 'description', 'director',
+                  'links','picture','release_date','production_company',
+                  'motto','genre','cast','video','violence','nudity','horror',
+                  'mpaa_rating','trivia'
+                  )
+
+class BookSerializer(serializers.ModelSerializer):
+    """Book Serializer"""
+    class Meta: # pylint: disable=too-few-public-methods
+        model = Book
+        fields = ('url', 'id','title','authors',
+                  'subgenre','description','thumbnail','release_date','tags',
+                  'editions','goodreads','isbn','asin'
+                 )
 
 class PredecessorSerializer(serializers.ModelSerializer):
     """Predecessor Serializer"""

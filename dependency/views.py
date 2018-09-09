@@ -7,13 +7,40 @@ from django.views.generic import TemplateView
 # from rest_framework.response import Response
 # from rest_framework.reverse import reverse
 
-from dependency.models import Tags, Tasks, Predecessors, Successors
+from dependency.models import Tags, Tasks, Predecessors, Successors, Book, Movie
 from dependency.permissions import IsOwnerOrReadOnly
-from dependency.serializers import TagSerializer, TaskSerializer, UserSerializer, PredecessorSerializer, SuccessorSerializer
+from dependency.serializers import TagSerializer, TaskSerializer, UserSerializer, PredecessorSerializer, SuccessorSerializer, MovieSerializer, BookSerializer
 
 class HomePageView(TemplateView):
     def get(self, request, **kwargs):
         return render(request, 'index.html', context=None)
+
+class BookViewSet(viewsets.ModelViewSet):
+    """This viewset represents a Movie"""
+    pagination_class = None
+    queryset = Book.objects.all()
+    serializer_class = BookSerializer
+    permission_classes = (
+        permissions.IsAuthenticatedOrReadOnly,
+        IsOwnerOrReadOnly, )
+    @detail_route(renderer_classes=[renderers.StaticHTMLRenderer])
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
+class MovieViewSet(viewsets.ModelViewSet):
+    """This viewset represents a Movie"""
+    pagination_class = None
+    queryset = Movie.objects.all()
+    serializer_class = MovieSerializer
+    permission_classes = (
+        permissions.IsAuthenticatedOrReadOnly,
+        IsOwnerOrReadOnly, )
+    @detail_route(renderer_classes=[renderers.StaticHTMLRenderer])
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
 
 class PredecessorViewSet(viewsets.ModelViewSet):
     """This viewset represents a connection to a predecssor task"""

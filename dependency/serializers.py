@@ -63,7 +63,7 @@ class TaskSerializer(serializers.ModelSerializer):
         """The Task serializer"""
         model = Tasks
         fields = ('url', 'id', 'name', 'document', 'owner',
-                  'successors', 'predecessors', 'tags',
+                  # 'successors', 'predecessors', 'tags',
                   'costLow', 'costHi', 'duration',
                   'confidence', 'TRL', 'editable', 'startdate',
                   'enddate', 'isp_columns', 'legacyUrl', 'elementID')

@@ -731,7 +731,6 @@ var IspSvgComponent = /** @class */ (function () {
         this.cdr.detach();
     };
     IspSvgComponent.prototype.clickedNode = function (event) {
-        var _this = this;
         var found = false;
         var node = event.target;
         do {
@@ -747,8 +746,9 @@ var IspSvgComponent = /** @class */ (function () {
             for (var _i = 0, _nodes_1 = _nodes; _i < _nodes_1.length; _i++) {
                 var _node = _nodes_1[_i];
                 if (_node.elementID === node.id) {
-                    var modalRef = _this.modalService.open(_isp_modal_isp_modal_component__WEBPACK_IMPORTED_MODULE_1__["NgbdModalContent"], { size: 'lg' });
-                    modalRef.componentInstance.node = _node;
+                    // const modalRef = this.modalService.open(NgbdModalContent, { size: 'lg' });
+                    // modalRef.componentInstance.node = _node;
+                    window.parent.postMessage(_node, "*");
                 }
             }
         });
